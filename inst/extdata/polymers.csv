@@ -1,0 +1,294 @@
+Polymer_Record_ID,Study_ID,Scope_Type,Scope_ID,Sample_ID,Polymer_Name,Polymer_Abbreviation,Value,Unit,N_Candidate,N_Chemically_Analyzed,N_Confirmed_or_Note,Identification_Method,Evidence_Level,Library_Match_Threshold,Aggregation_Level,Notes
+POL0003-1,ST0003,Study,ST0003,,HDPE,HDPE,,,,,Not Reported,ATR-FTIR,FTIR confirmed,,Study pooled,
+POL0003-2,ST0003,Study,ST0003,,LDPE,LDPE,,,,,Not Reported,ATR-FTIR,FTIR confirmed,,Study pooled,
+POL0003-3,ST0003,Study,ST0003,,Polypropylene,PP,,,,,Not Reported,ATR-FTIR,FTIR confirmed,,Study pooled,
+POL0003-4,ST0003,Study,ST0003,,Polystyrene,PS,,,,,Not Reported,ATR-FTIR,FTIR confirmed,,Study pooled,
+POL0009-1,ST0009,Sample,SA0009-ED,SA0009-ED,Polyethylene,PE,30.4,%,,90,~50% candidates selected overall,FTIR,FTIR confirmed,>70% accepted; 60–70 examined,Tissue,
+POL0009-2,ST0009,Sample,SA0009-INED,SA0009-INED,Polyethylene,PE,22.4,%,,90,~50% candidates selected overall,FTIR,FTIR confirmed,>70% accepted; 60–70 examined,Tissue,
+POL0013-1,ST0013,Study,ST0013,,Polyethylene,PE,32.07,%,,,Not Reported,FTIR,FTIR confirmed,>60% plastic confidence; >70% MP quality index wording,Study pooled,
+POL0013-2,ST0013,Study,ST0013,,Polyvinyl chloride,PVC,24.21,%,,,Not Reported,FTIR,FTIR confirmed,>60% plastic confidence; >70% MP quality index wording,Study pooled,
+POL0019-1,ST0019,Sample,SA0019-SLU,SA0019-SLU,Polypropylene,PP,40.27,%,,,Not Reported,micro-Raman,Raman confirmed,OpenSpecy Pearson correlation,Matrix,
+POL0019-2,ST0019,Sample,SA0019-SLU,SA0019-SLU,Polyester,PES,35.23,%,,,Not Reported,micro-Raman,Raman confirmed,OpenSpecy Pearson correlation,Matrix,
+POL0019-3,ST0019,Sample,SA0019-INF,SA0019-INF,Polyester,PES,63.93,%,,,Not Reported,micro-Raman,Raman confirmed,OpenSpecy Pearson correlation,Matrix,
+POL0019-4,ST0019,Sample,SA0019-EFF,SA0019-EFF,Polyester,PES,61.76,%,,,Not Reported,micro-Raman,Raman confirmed,OpenSpecy Pearson correlation,Matrix,
+POL0015-1,ST0015,Study,ST0015,,Polyethylene,PE,,,,,Selected MPs analyzed; exact N/% confirmed not reported,FTIR,FTIR confirmed,,Study selected particles,
+POL0015-2,ST0015,Study,ST0015,,Polypropylene,PP,,,,,Selected MPs analyzed; exact N/% confirmed not reported,FTIR,FTIR confirmed,,Study selected particles,
+POL0015-3,ST0015,Study,ST0015,,Polystyrene,PS,,,,,Selected MPs analyzed; exact N/% confirmed not reported,FTIR,FTIR confirmed,,Study selected particles,
+POL0015-4,ST0015,Study,ST0015,,Polyethylene terephthalate,PET,,,,,Selected MPs analyzed; exact N/% confirmed not reported,FTIR,FTIR confirmed,,Study selected particles,
+POL0015-5,ST0015,Study,ST0015,,Polyester,PES,,,,,Selected MPs analyzed; exact N/% confirmed not reported,FTIR,FTIR confirmed,,Study selected particles,
+POL0016-6,ST0016,Study,ST0016,,Polyvinyl chloride,PVC,24,%,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0016-7,ST0016,Study,ST0016,,Poly(ethylene-co-vinyl-acetate),EVA,,,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0016-8,ST0016,Study,ST0016,,High-density polyethylene,HDPE,,,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0016-9,ST0016,Study,ST0016,,Polytetrafluoroethylene,PTFE,,,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0016-10,ST0016,Study,ST0016,,Cellulose microcrystalline,,,,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0016-11,ST0016,Study,ST0016,,Lyocell,,,,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0016-12,ST0016,Study,ST0016,,Superflex-200,,,,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0016-13,ST0016,Study,ST0016,,Wax-1032,,,,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0016-14,ST0016,Study,ST0016,,AC-395,,,,35,35,32/35 identified (91.43%),Confocal Raman,Raman identified,,Representative random sample,Only PVC exact share stated in text; other shares not transcribed from figure.
+POL0017-15,ST0017,Sample,SA0017-SALT,SA0017-SALT,Polyesters,PES,61,%,626,,Representative particles µ-FTIR; remaining particles approximated by physical similarity and random validation,µ-FTIR + physical similarity,Mixed confirmed/inferred,,All extracted particles,
+POL0017-16,ST0017,Sample,SA0017-SALT,SA0017-SALT,Polyethylene,PE,22,%,626,,Representative particles µ-FTIR; remaining particles approximated by physical similarity and random validation,µ-FTIR + physical similarity,Mixed confirmed/inferred,,All extracted particles,
+POL0017-17,ST0017,Sample,SA0017-SALT,SA0017-SALT,Polyamide,PA,16,%,626,,Representative particles µ-FTIR; remaining particles approximated by physical similarity and random validation,µ-FTIR + physical similarity,Mixed confirmed/inferred,,All extracted particles,
+POL0017-18,ST0017,Sample,SA0017-SALT,SA0017-SALT,Polyethylene terephthalate,PET,7,%,626,,Representative particles µ-FTIR; remaining particles approximated by physical similarity and random validation,µ-FTIR + physical similarity,Mixed confirmed/inferred,,All extracted particles,
+POL0017-19,ST0017,Sample,SA0017-SALT,SA0017-SALT,Polystyrene,PS,<1,%,626,,Representative particles µ-FTIR; remaining particles approximated by physical similarity and random validation,µ-FTIR + physical similarity,Mixed confirmed/inferred,,All extracted particles,
+POL0018-20,ST0018,Study,ST0018,,Polyethylene,PE,41.67,% of analyzed particles,,,All filter particles not characterizable; analyzed subset N not reported,ATR-FTIR,FTIR confirmed subset,,All brands,
+POL0018-21,ST0018,Study,ST0018,,Polyethylene terephthalate,PET,33.33,% of analyzed particles,,,All filter particles not characterizable; analyzed subset N not reported,ATR-FTIR,FTIR confirmed subset,,All brands,
+POL0018-22,ST0018,Study,ST0018,,Polystyrene,PS,16.67,% of analyzed particles,,,All filter particles not characterizable; analyzed subset N not reported,ATR-FTIR,FTIR confirmed subset,,All brands,
+POL0018-23,ST0018,Study,ST0018,,Polypropylene,PP,8.33,% of analyzed particles,,,All filter particles not characterizable; analyzed subset N not reported,ATR-FTIR,FTIR confirmed subset,,All brands,
+POL0020-I-PE,ST0020,Study,ST0020-Influent,,PE,PE,26.9,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-I-PP,ST0020,Study,ST0020-Influent,,PP,PP,30.2,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-I-PS,ST0020,Study,ST0020-Influent,,PS,PS,10.3,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-I-PE+PP,ST0020,Study,ST0020-Influent,,PE+PP,PE+PP,6.3,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-I-PP+PE,ST0020,Study,ST0020-Influent,,PP+PE,PP+PE,5.1,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-I-PET,ST0020,Study,ST0020-Influent,,PET,PET,7.5,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-I-PES,ST0020,Study,ST0020-Influent,,PES,PES,3.3,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-I-PA,ST0020,Study,ST0020-Influent,,PA,PA,9.9,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-I-Other,ST0020,Study,ST0020-Influent,,Other,Other,0.5,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP influent samples,
+POL0020-E-PE,ST0020,Study,ST0020-Effluent,,PE,PE,17.9,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0020-E-PP,ST0020,Study,ST0020-Effluent,,PP,PP,34.8,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0020-E-PS,ST0020,Study,ST0020-Effluent,,PS,PS,9.6,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0020-E-PE+PP,ST0020,Study,ST0020-Effluent,,PE+PP,PE+PP,4.7,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0020-E-PP+PE,ST0020,Study,ST0020-Effluent,,PP+PE,PP+PE,13.9,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0020-E-PET,ST0020,Study,ST0020-Effluent,,PET,PET,7.5,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0020-E-PES,ST0020,Study,ST0020-Effluent,,PES,PES,1.1,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0020-E-PA,ST0020,Study,ST0020-Effluent,,PA,PA,10.1,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0020-E-Other,ST0020,Study,ST0020-Effluent,,Other,Other,0.4,%,1782,1782,1117/1782 plastic-like particles identified as MPs (62.68%) across study,Micro-Raman,Raman identified,,All STP effluent samples,
+POL0001-1,ST0001,Study,ST0001,,Low-density polyethylene,LDPE,,,,,Dominant polymer,micro-Raman,Raman confirmed,,Study pooled,Proceedings summary only
+POL0002-1,ST0002,Study,ST0002,,Low-density polyethylene,LDPE,26–91,% range,,,Dominant; range across sites,micro-Raman,Raman confirmed,,Study/site,Dominant at 6 of 10 sites
+POL0002-2,ST0002,Study,ST0002,,High-density polyethylene,HDPE,,,,,Present,micro-Raman,Raman confirmed,,Study pooled,
+POL0002-3,ST0002,Study,ST0002,,Polypropylene,PP,,,,,Present,micro-Raman,Raman confirmed,,Study pooled,
+POL0002-4,ST0002,Study,ST0002,,Polystyrene,PS,,,,,Present,micro-Raman,Raman confirmed,,Study pooled,
+POL0004-1,ST0004,Study,ST0004,,Polyethylene,PE,,,,,Widely distributed / dominant,ATR-FTIR,FTIR confirmed,,Study pooled,
+POL0005-1,ST0005,Study,ST0005,,Polyethylene,PE,,,,,Dominant,ATR-FTIR,FTIR confirmed,,Study pooled,"Microplastic PE: Maharashtra 63.7%, Goa 67.1%, Karnataka 57.2%"
+POL0005-2,ST0005,Study,ST0005,,Polypropylene,PP,,,,,Second major polymer,ATR-FTIR,FTIR confirmed,,Study pooled,"Microplastic PP: Maharashtra 29.9%, Goa 25.0%, Karnataka 37.8%"
+POL0007-1,ST0007,Study,ST0007,,Polyethylene,PE,,,,,Present,Raman microscopy,Raman confirmed,,Study pooled,One of four common polymers
+POL0007-2,ST0007,Study,ST0007,,Polypropylene,PP,,,,,Present,Raman microscopy,Raman confirmed,,Study pooled,One of four common polymers
+POL0007-3,ST0007,Study,ST0007,,Polyvinyl chloride,PVC,,,,,Present,Raman microscopy,Raman confirmed,,Study pooled,
+POL0007-4,ST0007,Study,ST0007,,Polyamide,PA,,,,,Present,Raman microscopy,Raman confirmed,,Study pooled,
+POL0008-1,ST0008,Sample,SA0008-FISH,SA0008-FISH,Polyethylene,PE,,,30,,Present in fish gut MPs,micro-Raman,Raman confirmed,,Fish pooled,
+POL0008-2,ST0008,Sample,SA0008-FISH,SA0008-FISH,Polypropylene,PP,,,30,,Present in fish gut MPs,micro-Raman,Raman confirmed,,Fish pooled,
+POL0010-W1,ST0010,Sample,SA0010-WAT,SA0010-WAT,Polyethylene,PE,75,%,,,FTIR-selected subset,ATR-FTIR,FTIR confirmed,≥80%,Water subset,
+POL0010-W2,ST0010,Sample,SA0010-WAT,SA0010-WAT,Polypropylene,PP,25,%,,,FTIR-selected subset,ATR-FTIR,FTIR confirmed,≥80%,Water subset,
+POL0010-S1,ST0010,Sample,SA0010-SED,SA0010-SED,Polyethylene,PE,60,%,,,FTIR-selected subset,ATR-FTIR,FTIR confirmed,≥80%,Sediment subset,
+POL0010-O1,ST0010,Sample,SA0010-OYS,SA0010-OYS,Polyethylene,PE,92,%,,,FTIR-selected subset,ATR-FTIR,FTIR confirmed,≥80%,Oyster subset,60 particles >0.5 mm selected overall
+POL0010-O2,ST0010,Sample,SA0010-OYS,SA0010-OYS,Polypropylene,PP,4,%,,,FTIR-selected subset,ATR-FTIR,FTIR confirmed,≥80%,Oyster subset,
+POL0011-1,ST0011,Study,ST0011,,High-density polyethylene,HDPE,20,%,20,20,4 particles implied by percentage if denominator 20; source reports 20%,Raman,Raman confirmed,≥80%,Analyzed subset,Fibers often unidentifiable due fluorescence
+POL0011-2,ST0011,Study,ST0011,,Polypropylene,PP,10,%,20,20,2 particles implied by percentage if denominator 20; source reports 10%,Raman,Raman confirmed,≥80%,Analyzed subset,
+POL0012-G1,ST0012,Study,ST0012,,Polypropylene,PP,42.3,%,,,Reported,ATR-FTIR,FTIR confirmed,,Goa pooled,92 particles total across both regions in 0.3–1 and 1–5 mm ranges
+POL0012-G2,ST0012,Study,ST0012,,Polyethylene,PE,27.1,%,,,Reported,ATR-FTIR,FTIR confirmed,,Goa pooled,
+POL0012-U1,ST0012,Study,ST0012,,Polypropylene,PP,56.4,%,,,Reported,ATR-FTIR,FTIR confirmed,,Udupi pooled,
+POL0012-U2,ST0012,Study,ST0012,,Polyethylene,PE,2.7,%,,,Reported,ATR-FTIR,FTIR confirmed,,Udupi pooled,
+POL0014-PE,ST0014,Study,ST0014,,Polyethylene,PE,46.8,%,,700,Mean ± SD; SD=7.2%,Raman,Raman confirmed,,Selected-particle subset,700 selected particles; 89 analyzed particles reported unidentifiable.
+POL0014-PP,ST0014,Study,ST0014,,Polypropylene,PP,20.9,%,,700,Mean ± SD; SD=7.4%,Raman,Raman confirmed,,Selected-particle subset,700 selected particles; 89 analyzed particles reported unidentifiable.
+POL0014-PS,ST0014,Study,ST0014,,Polystyrene,PS,15.6,%,,700,Mean ± SD; SD=3.8%,Raman,Raman confirmed,,Selected-particle subset,700 selected particles; 89 analyzed particles reported unidentifiable.
+POL0014-PET,ST0014,Study,ST0014,,Polyethylene terephthalate,PET,16.7,%,,700,Mean ± SD; SD=9.9%,Raman,Raman confirmed,,Selected-particle subset,700 selected particles; 89 analyzed particles reported unidentifiable.
+POL0072-1,ST0072,Study,ST0072,,Polypropylene,PP,,,,,Confirmed in sediment sample S1,FTIR,FTIR confirmed,,Study/site sample,Table 1 assigns PP to S1.
+POL0072-2,ST0072,Study,ST0072,,Polyethylene,PE,,,,,Confirmed in sediment sample S2,FTIR,FTIR confirmed,,Study/site sample,Table 1 assigns PE to S2.
+POL0072-3,ST0072,Study,ST0072,,Polyethylene terephthalate,PET,,,,,Confirmed in sediment sample S3,FTIR,FTIR confirmed,,Study/site sample,Table 1 assigns PET to S3.
+POL0072-4,ST0072,Study,ST0072,,Nylon,Nylon,,,,,Confirmed in sediment sample S4,FTIR,FTIR confirmed,,Study/site sample,Table 1 assigns Nylon to S4.
+POL0077-1,ST0077,Study,ST0077,SA0077-WAT,Polypropylene,PP,15,%,,154,Representative FTIR subset n=154,FTIR,Representative subset confirmed,,Study pooled,Percent composition reported for FTIR-characterized particles.
+POL0077-2,ST0077,Study,ST0077,SA0077-WAT,Polyamide,PA,39,%,,154,Representative FTIR subset n=154,FTIR,Representative subset confirmed,,Study pooled,Percent composition reported for FTIR-characterized particles.
+POL0077-3,ST0077,Study,ST0077,SA0077-WAT,Polyethylene terephthalate,PET,31,%,,154,Representative FTIR subset n=154,FTIR,Representative subset confirmed,,Study pooled,Percent composition reported for FTIR-characterized particles.
+POL0077-4,ST0077,Study,ST0077,SA0077-WAT,Polyvinyl chloride,PVC,15,%,,154,Representative FTIR subset n=154,FTIR,Representative subset confirmed,,Study pooled,Percent composition reported for FTIR-characterized particles.
+POL0080-1,ST0080,Study,ST0080,,Polystyrene,PS,,,,,Representative particles; exact n not reported in accessible text,FTIR,Representative FTIR confirmation,,Study pooled,FTIR spectral assignments reported across water/sediment; exact proportions not reported.
+POL0080-2,ST0080,Study,ST0080,,Polyethylene,PE,,,,,Representative particles; exact n not reported in accessible text,FTIR,Representative FTIR confirmation,,Study pooled,FTIR spectral assignments reported across water/sediment; exact proportions not reported.
+POL0080-3,ST0080,Study,ST0080,,Polypropylene,PP,,,,,Representative particles; exact n not reported in accessible text,FTIR,Representative FTIR confirmation,,Study pooled,FTIR spectral assignments reported across water/sediment; exact proportions not reported.
+POL0080-4,ST0080,Study,ST0080,,Polyvinyl chloride,PVC,,,,,Representative particles; exact n not reported in accessible text,FTIR,Representative FTIR confirmation,,Study pooled,FTIR spectral assignments reported across water/sediment; exact proportions not reported.
+POL0080-5,ST0080,Study,ST0080,,Polyethylene terephthalate,PET,,,,,Representative particles; exact n not reported in accessible text,FTIR,Representative FTIR confirmation,,Study pooled,FTIR spectral assignments reported across water/sediment; exact proportions not reported.
+POL0081-1,ST0081,Study,ST0081,,High-density polyethylene,HDPE,,,,,Confirmed,Micro-Raman,Raman confirmed,,Study pooled,
+POL0081-2,ST0081,Study,ST0081,,Polystyrene,PS,,,,,Confirmed,Micro-Raman,Raman confirmed,,Study pooled,
+POL0081-3,ST0081,Study,ST0081,,Polymethyl methacrylate,PMMA,,,,,Confirmed,Micro-Raman,Raman confirmed,,Study pooled,
+POL0081-4,ST0081,Study,ST0081,,Polyvinyl chloride,PVC,,,,,Confirmed,Micro-Raman,Raman confirmed,,Study pooled,
+POL0081-5,ST0081,Study,ST0081,,Polyamide,PA,,,,,Confirmed,Micro-Raman,Raman confirmed,,Study pooled,
+POL0081-6,ST0081,Study,ST0081,,Polypropylene,PP,,,,,Confirmed,Micro-Raman,Raman confirmed,,Study pooled,
+POL0082-PA,ST0082,Study,ST0082,,Polyamide,PA,22,%,135,135,127 matched,Laser Raman,Raman confirmed,,Analyzed subset,8 spectra unmatched
+POL0082-PP,ST0082,Study,ST0082,,Polypropylene,PP,36,%,135,135,127 matched,Laser Raman,Raman confirmed,,Analyzed subset,
+POL0082-LDPE,ST0082,Study,ST0082,,Low-density polyethylene,LDPE,14,%,135,135,127 matched,Laser Raman,Raman confirmed,,Analyzed subset,
+POL0082-PVC,ST0082,Study,ST0082,,Polyvinyl chloride,PVC,3,%,135,135,127 matched,Laser Raman,Raman confirmed,,Analyzed subset,
+POL0083,ST0083,Study,ST0083,,PVC and PS,PVC; PS,>55,%,,,Reported combined dominance,µ-FTIR,FTIR confirmed,,Study pooled,Abstract: primarily PVC and PS polymers (>55%)
+POL0085,ST0085,Study,ST0085,,Multiple polymers,,,,,,µ-FTIR confirmed,µ-FTIR,FTIR confirmed,,Study/treatment,Polymer composition varies by salt ratio; retain detailed figure/table for later if needed
+POL0086,ST0086,Study,ST0086,,Polyethylene and polypropylene,PE; PP,,,744,744,Most common polymers,µ-FTIR,FTIR confirmed,>70%,All matrices analyzed subset,744 spectra
+POL0087,ST0087,Study,ST0087,,Multiple polymers,,94,%,720,720,~94% assigned,µ-ATR-FTIR,FTIR confirmed,≥80%,Treatment/species subset,720 particles analyzed
+POL0089-01,ST0089,Study,ST0089,SA0089-ALL,Polyethylene,PE,23,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-02,ST0089,Study,ST0089,SA0089-ALL,Polypropylene,PP,22,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-03,ST0089,Study,ST0089,SA0089-ALL,Polyethylene terephthalate,PET,19,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-04,ST0089,Study,ST0089,SA0089-ALL,Polystyrene,PS,14,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-05,ST0089,Study,ST0089,SA0089-ALL,Polyamides,PA,6,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-06,ST0089,Study,ST0089,SA0089-ALL,Nylon-6,Nylon-6,4,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-07,ST0089,Study,ST0089,SA0089-ALL,Poly(vinyl acetate),PVAc,4,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-08,ST0089,Study,ST0089,SA0089-ALL,Polycarbonate,PC,4,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-09,ST0089,Study,ST0089,SA0089-ALL,Polyimide,PI,3,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0089-10,ST0089,Study,ST0089,SA0089-ALL,Polysiloxanes,Polysiloxanes,1,%,1678,890,Approximate polymer percentage among FTIR-characterized representative subset,ATR-FTIR,Subset chemical confirmation,≥80%,Pooled study,"Accessible VOR text states ~890 of 1678 visually identified particles (≥50%) were subjected to ATR-FTIR; representative across morphotypes, colors, species, organs and locations."
+POL0093-01,ST0093,Study,ST0093,SA0093-SP,Polyester,PES,27.4–44.8,%,,,Dominant polymer range,FTIR,Chemical confirmation,Not Reported,Pooled study,
+POL0093-02,ST0093,Study,ST0093,SA0093-SP,Polyethylene,PE,20.5–30.8,%,,,Major polymer range,FTIR,Chemical confirmation,Not Reported,Pooled study,
+POL0093-03,ST0093,Study,ST0093,SA0093-SP,Polypropylene,PP,,,,,Present,FTIR,Chemical confirmation,Not Reported,Pooled study,
+POL0093-04,ST0093,Study,ST0093,SA0093-SP,Polyamide,PA,,,,,Present,FTIR,Chemical confirmation,Not Reported,Pooled study,
+POL0096-01,ST0096,Study,ST0096,SA0096-ES,Polyethylene,PE,,,,,Major polymer,Raman spectroscopy,Chemical confirmation,Not Reported,Pooled study,
+POL0096-02,ST0096,Study,ST0096,SA0096-ES,Polypropylene,PP,,,,,Major polymer,Raman spectroscopy,Chemical confirmation,Not Reported,Pooled study,
+POL0096-03,ST0096,Study,ST0096,SA0096-ES,Polyester,PES,,,,,Present,Raman spectroscopy,Chemical confirmation,Not Reported,Pooled study,
+POL0096-04,ST0096,Study,ST0096,SA0096-ES,Nylon,PA/Nylon,,,,,Present,Raman spectroscopy,Chemical confirmation,Not Reported,Pooled study,
+POL0096-05,ST0096,Study,ST0096,SA0096-ES,Poly(acrylamide),PAM,,,,,Present,Raman spectroscopy,Chemical confirmation,Not Reported,Pooled study,
+POL0092-01,ST0092,Study,ST0092,SA0092-W,Polypropylene,PP,,,,,Dominant polymer,FTIR,Chemical confirmation,Not Reported,Study,
+POL0092-02,ST0092,Study,ST0092,SA0092-W,Polyethylene,PE,,,,,Dominant polymer,FTIR,Chemical confirmation,Not Reported,Study,
+POL0092-03,ST0092,Study,ST0092,SA0092-W,Polyamide,PA,,,,,Present after PP/PE,FTIR,Chemical confirmation,Not Reported,Study,
+POL0092-04,ST0092,Study,ST0092,SA0092-W,Polystyrene,PS,,,,,Present after PP/PE,FTIR,Chemical confirmation,Not Reported,Study,
+POL0097-01,ST0097,Study,ST0097,SA0097-ALL,Polyethylene,PE,,,,,Dominant polymer,ATR-FTIR (Agilent Cary 630),Chemical confirmation,Not Reported,Pooled study,Diamond-crystal ATR-FTIR; 4000–600 cm⁻¹; 32 scans; 4 cm⁻¹ resolution; Agilent ATR library. SEM used separately for surface-weathering characterization.
+POL0097-02,ST0097,Study,ST0097,SA0097-ALL,Polypropylene,PP,,,,,Dominant polymer,ATR-FTIR (Agilent Cary 630),Chemical confirmation,Not Reported,Pooled study,Diamond-crystal ATR-FTIR; 4000–600 cm⁻¹; 32 scans; 4 cm⁻¹ resolution; Agilent ATR library. SEM used separately for surface-weathering characterization.
+POL0088-PE,ST0088,Study,ST0088,SA0088-W,Polyethylene,PE,,,,,Present,Not fully extracted,Polymer identity reported,,Across matrices,
+POL0088-PP,ST0088,Study,ST0088,SA0088-W,Polypropylene,PP,,,,,Present,Not fully extracted,Polymer identity reported,,Across matrices,
+POL0088-PS,ST0088,Study,ST0088,SA0088-W,Polystyrene,PS,,,,,Present,Not fully extracted,Polymer identity reported,,Across matrices,
+POL0088-PVC,ST0088,Study,ST0088,SA0088-W,Polyvinyl chloride,PVC,,,,,Present,Not fully extracted,Polymer identity reported,,Across matrices,
+POL0088-PA,ST0088,Study,ST0088,SA0088-W,Polyamide,PA,,,,,Present,Not fully extracted,Polymer identity reported,,Across matrices,
+POL0088-PES,ST0088,Study,ST0088,SA0088-W,Polyester,PES,,,,,Present,Not fully extracted,Polymer identity reported,,Across matrices,
+POL0098-PET,ST0098,Study,ST0098,SA0098-S,Polyethylene terephthalate,PET,,,,,Common polymer,micro-FTIR,Chemical confirmation,,Across sediment/seawater,
+POL0098-AMMA,ST0098,Study,ST0098,SA0098-S,AMMA (as reported),AMMA,,,,,Common polymer; nomenclature preserved as authors report,micro-FTIR,Chemical confirmation,,Across sediment/seawater,
+POL0098-PA,ST0098,Study,ST0098,SA0098-S,Polyamide,PA,,,,,Common polymer,micro-FTIR,Chemical confirmation,,Across sediment/seawater,
+POL0098-PU,ST0098,Study,ST0098,SA0098-S,Polyurethane,PU,,,,,Common polymer,micro-FTIR,Chemical confirmation,,Across sediment/seawater,
+POL0094-NY,ST0094,Study,ST0094,SA0094-S,Nylon,Nylon,91.2,%,,,,Raman spectroscopy,Chemical confirmation,,Pooled study,
+POL0094-PS,ST0094,Study,ST0094,SA0094-S,Polystyrene,PS,4.4,%,,,,Raman spectroscopy,Chemical confirmation,,Pooled study,
+POL0094-PE,ST0094,Study,ST0094,SA0094-S,Polyethylene,PE,3.98,%,,,,Raman spectroscopy,Chemical confirmation,,Pooled study,
+POL0094-PP,ST0094,Study,ST0094,SA0094-S,Polypropylene,PP,0.6,%,,,,Raman spectroscopy,Chemical confirmation,,Pooled study,
+POL0095-T,ST0095,Species,Trachinotus blochii,SA0095-FT,LDPE; PET; HDPE; PP; PVC,,,,,,Species polymer set reported,FTIR,Chemical confirmation,,Species pooled,
+POL0095-E,ST0095,Species,Etroplus suratensis,SA0095-FE,LDPE; PP; HDPE; PA; PU,,,,,,Species polymer set reported,FTIR,Chemical confirmation,,Species pooled,
+POL0061-01,ST0061,Study,ST0061,SA0061-ALL,High-density polyethylene,HDPE,,,,,Among 12 Raman-identified polymer types,Raman spectroscopy,Chemical confirmation,,Nine stations,
+POL0061-02,ST0061,Study,ST0061,SA0061-ALL,Polystyrene,PS,,,,,Present,Raman spectroscopy,Chemical confirmation,,Nine stations,
+POL0061-03,ST0061,Study,ST0061,SA0061-ALL,Polyvinyl chloride,PVC,,,,,Present,Raman spectroscopy,Chemical confirmation,,Nine stations,
+POL0061-04,ST0061,Study,ST0061,SA0061-ALL,Acrylonitrile copolymer,NR,,,,,Present,Raman spectroscopy,Chemical confirmation,,Nine stations,
+POL0062-01,ST0062,Study,ST0062,SA0062-01,Nylon 6,PA6,,,,,8 of 9 manually isolated hot-needle-confirmed plastic particles; also detected in filtered residues,FTIR + Raman + GC-MS,Multi-method chemical confirmation,,Khaitan sample,
+POL0062-02,ST0062,Study,ST0062,SA0062-01,High-density polyethylene,HDPE,,,,,1 of 9 manually isolated particles; also detected in residues,FTIR + Raman + GC-MS,Multi-method chemical confirmation,,Khaitan sample,
+POL0078-01,ST0078,Study,ST0078,SA0078-L1,Nylon / Polyamide,PA,,,,,Most predominant polymer,FTIR,Chemical confirmation,,Five lakes,
+POL0078-02,ST0078,Study,ST0078,SA0078-L1,Polyethylene terephthalate,PET,,,,,Present / prominent,FTIR,Chemical confirmation,,Five lakes,
+POL0078-03,ST0078,Study,ST0078,SA0078-L1,Polyvinyl chloride,PVC,,,,,Present,FTIR,Chemical confirmation,,Five lakes,
+POL0078-04,ST0078,Study,ST0078,SA0078-L1,Polytetrafluoroethylene,PTFE,,,,,Present,FTIR,Chemical confirmation,,Five lakes,
+POL0079-01,ST0079,Study,ST0079,SA0079-ALL,Polyethylene terephthalate,PET,,,,,Dominant polymer group,Micro-Raman spectroscopy,Chemical confirmation,,Six brands,
+POL0079-02,ST0079,Study,ST0079,SA0079-ALL,Polypropylene,PP,,,,,Dominant polymer group,Micro-Raman spectroscopy,Chemical confirmation,,Six brands,
+POL0079-03,ST0079,Study,ST0079,SA0079-ALL,Polystyrene,PS,,,,,Dominant polymer group,Micro-Raman spectroscopy,Chemical confirmation,,Six brands,
+POL0079-04,ST0079,Study,ST0079,SA0079-ALL,Polyethylene,PE,,,,,Dominant polymer group,Micro-Raman spectroscopy,Chemical confirmation,,Six brands,
+POL0066-01,ST0066,Study,ST0066,SA0066-GW,Polyethylene,PE,,,,,Dominant,Chemical method not exposed in abstract,Polymer identity reported,,Study,
+POL0066-02,ST0066,Study,ST0066,SA0066-GW,Polystyrene,PS,,,,,Dominant,Chemical method not exposed in abstract,Polymer identity reported,,Study,
+POL0068-01,ST0068,Study,ST0068,SA0068-GW,Polypropylene,PP,,,,,Most abundant polymer,Not exposed in accessible abstract,Polymer identity reported,,120 wells,
+POL0069-01,ST0069,Study,ST0069,SA0069-S1,Polyethylene,PE,58,%,,,,ATR-FTIR,Chemical confirmation,>80%,Analyzed polymer subset,
+POL0069-02,ST0069,Study,ST0069,SA0069-S1,Polypropylene,PP,,,,,Prevalent,ATR-FTIR,Chemical confirmation,>80%,Analyzed polymer subset,
+POL0069-03,ST0069,Study,ST0069,SA0069-S1,Polyethylene terephthalate,PET,5.4,%,,,,ATR-FTIR,Chemical confirmation,>80%,Analyzed polymer subset,
+POL0069-04,ST0069,Study,ST0069,SA0069-S1,Polystyrene,PS,0.7,%,,,,ATR-FTIR,Chemical confirmation,>80%,Analyzed polymer subset,
+POL0069-05,ST0069,Study,ST0069,SA0069-S1,Polyvinyl chloride,PVC,,,,,Present,ATR-FTIR,Chemical confirmation,>80%,Analyzed polymer subset,
+POL0070-01,ST0070,Study,ST0070,SA0070-WAT,Polyethylene,PE,,,,,Present,Polymer analysis method pending full text,Reported identity,,Five beaches,
+POL0070-02,ST0070,Study,ST0070,SA0070-WAT,Polypropylene,PP,,,,,Present,Polymer analysis method pending full text,Reported identity,,Five beaches,
+POL0070-03,ST0070,Study,ST0070,SA0070-WAT,Polystyrene,PS,,,,,Present,Polymer analysis method pending full text,Reported identity,,Five beaches,
+POL0070-04,ST0070,Study,ST0070,SA0070-WAT,Ethylene vinyl alcohol,EVOH,,,,,Present,Polymer analysis method pending full text,Reported identity,,Five beaches,
+POL0070-05,ST0070,Study,ST0070,SA0070-WAT,Polyurethane,PU,,,,,Present,Polymer analysis method pending full text,Reported identity,,Five beaches,
+POL0071-01,ST0071,Study,ST0071,SA0071-WAT,Cellulose and derivatives,Cellulosic,70,%,,,,Chemical characterization method not exposed in abstract,Reported chemical characterization,,Three lakes,Not synthetic plastic; keep distinct from synthetic-polymer records.
+POL0071-02,ST0071,Study,ST0071,SA0071-WAT,Polyethylene,PE,,,,,Present,Chemical characterization method not exposed in abstract,Reported identity,,Three lakes,
+POL0071-03,ST0071,Study,ST0071,SA0071-WAT,Polyamide,PA,,,,,Present,Chemical characterization method not exposed in abstract,Reported identity,,Three lakes,
+POL0071-04,ST0071,Study,ST0071,SA0071-WAT,Polyvinyl stearate,PVS,,,,,Present,Chemical characterization method not exposed in abstract,Reported identity,,Three lakes,
+POL0063-01,ST0063,Study,ST0063,SA0063-W,Nylon,PA,,,,,Predominant,FTIR,Chemical confirmation,,Water + sediment study,
+POL0063-02,ST0063,Study,ST0063,SA0063-W,Polyvinyl chloride,PVC,,,,,Predominant,FTIR,Chemical confirmation,,Water + sediment study,
+POL0063-03,ST0063,Study,ST0063,SA0063-W,Polyethylene terephthalate,PET,,,,,Predominant,FTIR,Chemical confirmation,,Water + sediment study,
+POL0064-01,ST0064,Study,ST0064,SA0064-S,Polyethylene terephthalate,PET,,,,,Predominant,ATR-FTIR + micro-Raman,Chemical confirmation,,31 beaches,
+POL0064-02,ST0064,Study,ST0064,SA0064-S,Polypropylene,PP,,,,,Present,ATR-FTIR + micro-Raman,Chemical confirmation,,31 beaches,
+POL0064-03,ST0064,Study,ST0064,SA0064-S,Polystyrene,PS,,,,,Present,ATR-FTIR + micro-Raman,Chemical confirmation,,31 beaches,
+POL0064-04,ST0064,Study,ST0064,SA0064-S,Ethylene vinyl acetate,EVA,,,,,Present,ATR-FTIR + micro-Raman,Chemical confirmation,,31 beaches,
+POL0064-05,ST0064,Study,ST0064,SA0064-S,Polyvinyl chloride,PVC,,,,,Present,ATR-FTIR + micro-Raman,Chemical confirmation,,31 beaches,
+POL0065-01,ST0065,Study,ST0065,SA0065-W,Polyethylene,PE,,,,,Abundant across matrices,Micro-Raman,Chemical confirmation,,Water/sediment/fish,
+POL0065-02,ST0065,Study,ST0065,SA0065-W,Polypropylene,PP,,,,,Abundant across matrices,Micro-Raman,Chemical confirmation,,Water/sediment/fish,
+POL0074-01,ST0074,Study,ST0074,SA0074-F,poly(m-phenylene terephthalamide),PMTA/aramid,35,% approx,,,Most abundant identified polymer,Raman spectroscopy,Chemical confirmation,,All identified MPs,
+POL0075-01,ST0075,Study,ST0075,SA0075-GW,Polyethylene,PE,,,,,Predominant polymer,Not safely exposed in current pass,Polymer identity reported in abstract,,60 groundwater samples,
+POL0075-02,ST0075,Study,ST0075,SA0075-GW,Polypropylene,PP,,,,,Predominant polymer,Not safely exposed in current pass,Polymer identity reported in abstract,,60 groundwater samples,
+POL0076-WPE,ST0076,Matrix,water,SA0076-W,Polyethylene,PE,54.38,%,,,,Raman spectroscopy,Chemical confirmation,,Water,
+POL0076-WPP,ST0076,Matrix,water,SA0076-W,Polypropylene,PP,24.56,%,,,,Raman spectroscopy,Chemical confirmation,,Water,
+POL0076-WPS,ST0076,Matrix,water,SA0076-W,Polystyrene,PS,21.05,%,,,,Raman spectroscopy,Chemical confirmation,,Water,
+POL0076-SPS,ST0076,Matrix,sediment,SA0076-S,Polystyrene,PS,37.69,%,,,,Raman spectroscopy,Chemical confirmation,,Sediment,
+POL0076-SPET,ST0076,Matrix,sediment,SA0076-S,Polyethylene terephthalate,PET,25.65,%,,,,Raman spectroscopy,Chemical confirmation,,Sediment,
+POL0076-FPE,ST0076,Matrix,fish,SA0076-F,Polyethylene,PE,39.7,%,,,,Raman spectroscopy,Chemical confirmation,,Fish,
+POL0076-FPET,ST0076,Matrix,fish,SA0076-F,Polyethylene terephthalate,PET,33.82,%,,,,Raman spectroscopy,Chemical confirmation,,Fish,
+POL0021-01,ST0021,Study,ST0021,SA0021-W,Polyacrylamide,PAM,,,,,Major polymer,Chemical characterization reported,Chemical identification — method detail pending,,All matrices,
+POL0021-02,ST0021,Study,ST0021,SA0021-W,Polyacetylene,PAc,,,,,Major polymer,Chemical characterization reported,Chemical identification — method detail pending,,All matrices,
+POL0021-03,ST0021,Study,ST0021,SA0021-W,Ethylene vinyl alcohol,EVOH,,,,,Major polymer,Chemical characterization reported,Chemical identification — method detail pending,,All matrices,
+POL0022-01,ST0022,Study,ST0022,SA0022-W,Polypropylene,PP,,,,,,Micro-Raman,Chemical confirmation subset,,Five sites,
+POL0022-02,ST0022,Study,ST0022,SA0022-W,Poly(ethylene-co-vinyl acetate),PEVA,,,,,Present,Micro-Raman,Chemical confirmation subset,,Five sites,
+POL0022-03,ST0022,Study,ST0022,SA0022-W,Polyamide,PA,,,,,Present,Micro-Raman,Chemical confirmation subset,,Five sites,
+POL0022-04,ST0022,Study,ST0022,SA0022-W,Polybutadiene,BR,,,,,Present; tyre-associated polymer noted at drive-in beach,Micro-Raman,Chemical confirmation subset,,Five sites,
+POL0022-05,ST0022,Study,ST0022,SA0022-W,Polyethylene,PE,,,,,Present,Micro-Raman,Chemical confirmation subset,,Five sites,
+POL0025-01,ST0025,Study,ST0025,SA0025-S,HDPE; LDPE; PE; PP; PS; PA,mixed,,,,,All reported present,ATR-FTIR,Chemical confirmation,,Island beaches,
+POL0046-01,ST0046,Study,ST0046,SA0046-W,Polyethylene terephthalate,PET,,,,,Principal polymer,Polymer analysis reported by authors,Chemical confirmation reported,,Both seasons,
+POL0057-01,ST0057,Study,ST0057,SA0057-S,High-density polyethylene,HDPE,,,,,,Raman spectroscopy,Chemical confirmation,,22 sites,
+POL0057-02,ST0057,Study,ST0057,SA0057-S,Polystyrene,PS,,,,,,Raman spectroscopy,Chemical confirmation,,22 sites,
+POL0057-03,ST0057,Study,ST0057,SA0057-S,Polyethylene terephthalate,PET,,,,,,Raman spectroscopy,Chemical confirmation,,22 sites,
+POL0057-04,ST0057,Study,ST0057,SA0057-S,Polyamide,PA,,,,,,Raman spectroscopy,Chemical confirmation,,22 sites,
+POL0057-05,ST0057,Study,ST0057,SA0057-S,Polypropylene,PP,,,,,,Raman spectroscopy,Chemical confirmation,,22 sites,
+POL0057-06,ST0057,Study,ST0057,SA0057-S,Polycarbonate,PC,,,,,,Raman spectroscopy,Chemical confirmation,,22 sites,
+POL0058-01,ST0058,Study,ST0058,SA0058-WL,High-density polyethylene,HDPE,,,,,Most abundant of six reported polymers,SEM-EDX / authors' chemical characterization,Author-reported chemical characterization,,Water + sediment,
+POL0027-01,ST0027,Study,ST0027,SA0027-PRM,Polyethylene,PE,,,,,Main polymer,ATR-FTIR,Chemical confirmation subset,,Both seasons,
+POL0027-02,ST0027,Study,ST0027,SA0027-PRM,Polyethylene terephthalate,PET,,,,,Main polymer,ATR-FTIR,Chemical confirmation subset,,Both seasons,
+POL0027-03,ST0027,Study,ST0027,SA0027-PRM,Polypropylene,PP,,,,,Main polymer,ATR-FTIR,Chemical confirmation subset,,Both seasons,
+POL0029-W,ST0029,Water,ST0029-water,SA0029-W,Polyethylene,PE,,,,,Predominant,FTIR,Chemical confirmation,,Water,
+POL0029-S,ST0029,Sediment,ST0029-sediment,SA0029-S,Polypropylene,PP,,,,,Predominant,FTIR,Chemical confirmation,,Sediment,
+POL0029-F1,ST0029,Fish,ST0029-fish,SA0029-F,Polyethylene terephthalate,PET,,,,,Among most abundant,FTIR,Chemical confirmation,,Fish,
+POL0029-F2,ST0029,Fish,ST0029-fish,SA0029-F,Polystyrene,PS,,,,,Among most abundant,FTIR,Chemical confirmation,,Fish,
+POL0030-W,ST0030,Water,ST0030-water,SA0030-W,Polyester,PES,,,,,,ATR-FTIR,Chemical confirmation,,Water,
+POL0030-S,ST0030,Sediment,ST0030-sediment,SA0030-S,Polyester,PES,,,,,,ATR-FTIR,Chemical confirmation,,Sediment,
+POL0037-W,ST0037,Water,ST0037-water,SA0037-W,PP; Nylon; LDPE; PE; iPP; PE-1-octene copolymer; Rayon,mixed,,,,,Reported in water,Polymer analysis reported,Chemical identification reported,,Surface water,
+POL0037-F,ST0037,Fish,ST0037-fish,SA0037-F,LDPE; PP; PE; Nylon,mixed,,,,,Predominant in fish,Polymer analysis reported,Chemical identification reported,,Fish,
+POL0040-01,ST0040,Fish,ST0040,SA0040-F,Low-density polyethylene,LDPE,,,,,Predominant,Polymer analysis reported,Chemical identification reported,,400 fish,
+POL0040-02,ST0040,Fish,ST0040,SA0040-F,Polypropylene,PP,,,,,Present after LDPE,Polymer analysis reported,Chemical identification reported,,400 fish,
+POL0040-03,ST0040,Fish,ST0040,SA0040-F,High-density polyethylene,HDPE,,,,,Present,Polymer analysis reported,Chemical identification reported,,400 fish,
+POL0040-04,ST0040,Fish,ST0040,SA0040-F,Polystyrene,PS,,,,,Present,Polymer analysis reported,Chemical identification reported,,400 fish,
+POL0023-01,ST0023,Study,ST0023,SA0023-S,Polyethylene types and additives,PE-related,,,,,Dominant,Polymer characterization reported,Primary publisher highlight,,Marina + Pattinapakkam,
+POL0044-01,ST0044,Study,ST0044,SA0044-S,Polyethylene,PE,,,,,Abundant,Polymer characterization reported,Primary publisher highlight,,Five beaches,
+POL0044-02,ST0044,Study,ST0044,SA0044-S,Polypropylene,PP,,,,,Abundant,Polymer characterization reported,Primary publisher highlight,,Five beaches,
+POL0047-01,ST0047,Study,ST0047,SA0047-SW,Polyethylene,PE,,,,,Dominant both seasons,Polymer analysis reported,Chemical identification reported,,Six beaches,
+POL0047-02,ST0047,Study,ST0047,SA0047-SW,Polypropylene,PP,,,,,Dominant both seasons,Polymer analysis reported,Chemical identification reported,,Six beaches,
+POL0049-01,ST0049,Study,ST0049,SA0049-INF,LDPE; PP; polyurethane; PVC; rayon,mixed,,,,,Prominent plastic types,FTIR,Chemical confirmation,,Wastewater + sludge,
+POL0051-01,ST0051,Fish,ST0051,SA0051-F,Polyethylene,PE,,,,,Most abundant polymer,Polymer analysis reported,Chemical identification reported,,17 species,
+POL0053-01,ST0053,Study,ST0053,SA0053-W,Polyethylene,PE,,,,,Dominant polyolefin,Raman + micro-FTIR,Chemical confirmation,,Water + sediment,
+POL0053-02,ST0053,Study,ST0053,SA0053-W,Polypropylene,PP,,,,,Dominant polyolefin,Raman + micro-FTIR,Chemical confirmation,,Water + sediment,
+POL0054-01,ST0054,Study,ST0054,SA0054-S,Polyethylene,PE,,,,,,Polymer analysis reported,Chemical identification reported,,SGD + non-SGD,
+POL0054-02,ST0054,Study,ST0054,SA0054-S,Polypropylene,PP,,,,,,Polymer analysis reported,Chemical identification reported,,SGD + non-SGD,
+POL0054-03,ST0054,Study,ST0054,SA0054-S,Polyamide,PA,,,,,,Polymer analysis reported,Chemical identification reported,,SGD + non-SGD,
+POL0054-04,ST0054,Study,ST0054,SA0054-S,Polystyrene,PS,,,,,,Polymer analysis reported,Chemical identification reported,,SGD + non-SGD,
+POL0054-05,ST0054,Study,ST0054,SA0054-S,Ethylene vinyl acetate,EVA,,,,,,Polymer analysis reported,Chemical identification reported,,SGD + non-SGD,
+POL0054-06,ST0054,Study,ST0054,SA0054-S,Polyvinyl chloride,PVC,,,,,,Polymer analysis reported,Chemical identification reported,,SGD + non-SGD,
+POL0055-01,ST0055,Study,ST0055,SA0055-W,Polyethylene,PE,,,,,Dominant,Polymer composition analysis reported,Chemical identification reported,,39 lakes,
+POL0033-01,ST0033,Study,ST0033,SA0033-W,PS; PVC; nylon; PE; PET; PP,mixed,,,,,Common polymers,Polymer characterization reported,Primary publisher highlight,,Water + sediment,
+POL0034-01,ST0034,Study,ST0034,SA0034-KR,Polyamide; polypropylene; polyethylene; ethylene vinyl alcohol copolymer resin; polyvinyl chloride,PA; PP; PE; EVOH; PVC,,,,,Primary polymer types,µFTIR + µRaman,Chemical confirmation,,Multiple water matrices,
+POL0036-01,ST0036,All matrices,ST0036,SA0036-W,Polypropylene,PP,,,,,,FTIR/Raman,Chemical confirmation,,Fauna + sediment + water,
+POL0036-02,ST0036,All matrices,ST0036,SA0036-W,Nylon,NY,,,,,,FTIR/Raman,Chemical confirmation,,Fauna + sediment + water,
+POL0036-03,ST0036,All matrices,ST0036,SA0036-W,Polyvinyl chloride,PVC,,,,,,FTIR/Raman,Chemical confirmation,,Fauna + sediment + water,
+POL0036-04,ST0036,All matrices,ST0036,SA0036-W,Polyethylene,PE,,,,,,FTIR/Raman,Chemical confirmation,,Fauna + sediment + water,
+POL0039-01,ST0039,All matrices,ST0039,SA0039-W,Polypropylene,PP,,,,,,micro-Raman,Chemical confirmation,,Water + sediment + fish,
+POL0039-02,ST0039,All matrices,ST0039,SA0039-W,Polyvinyl chloride,PVC,,,,,,micro-Raman,Chemical confirmation,,Water + sediment + fish,
+POL0039-03,ST0039,All matrices,ST0039,SA0039-W,Acrylonitrile-butadiene-styrene,ABS,,,,,,micro-Raman,Chemical confirmation,,Water + sediment + fish,
+POL0039-04,ST0039,All matrices,ST0039,SA0039-W,Polycarbonate,PC,,,,,,micro-Raman,Chemical confirmation,,Water + sediment + fish,
+POL0039-05,ST0039,All matrices,ST0039,SA0039-W,Polyethylene,PE,,,,,,micro-Raman,Chemical confirmation,,Water + sediment + fish,
+POL0039-06,ST0039,All matrices,ST0039,SA0039-W,Polystyrene,PS,,,,,,micro-Raman,Chemical confirmation,,Water + sediment + fish,
+POL0032-01,ST0032,Water + sediment,ST0032,SA0032-W,Polyethylene,PE,43.58,% sediment,,,PE dominant; accessible full text reports 43.58% sediment and 48.81% water,Polymer characterization in primary study,Chemical identification reported,,17 stations,Water PE 48.81%; sediment PE 43.58%.
+POL0035-01,ST0035,Study,ST0035,SA0035-W,Polypropylene,PP,,,,,Dominant,Primary study polymer analysis,Chemical identification reported,,Water/sediment/fish,
+POL0035-02,ST0035,Study,ST0035,SA0035-W,Polyethylene,PE,,,,,Dominant,Primary study polymer analysis,Chemical identification reported,,Water/sediment/fish,
+POL0042-01,ST0042,Study,ST0042,SA0042-S,"13 polymer types including polypropylene, polystyrene, polyvinyl chloride and polybutadiene",mixed,,,,,13 polymer types,Raman spectroscopy,Chemical confirmation,,Eight beaches,
+POL0043-01,ST0043,Study,ST0043,SA0043-W,Polyesters and fluoropolymers; some polypropylene and polyethylene,mixed,,,,,Polyesters/fluoropolymers notable,SEM-EDS + FTIR,Chemical characterization,,Water/wet sediment/dry sand,
+POL0048-01,ST0048,Sediment + biota,ST0048,SA0048-S,Polyethylene,PE,,,,,Dominant,Primary study characterization,Chemical identification reported,,12 sediment / 6 biota beaches,
+POL0024-01,ST0024,Study,ST0024,SA0024-S,Polypropylene; Polyethylene; Polystyrene,PP; PE; PS,,,,,Reported polymers,Chemical nature identified in study,Chemical identification reported,,20 beaches,
+POL0041-01,ST0041,Study,ST0041,SA0041-HTL,Polyethylene,PE,73.2,%,,,,FTIR-ATR,Chemical confirmation,,Five areas,
+POL0041-02,ST0041,Study,ST0041,SA0041-HTL,Polypropylene,PP,13.8,%,,,,FTIR-ATR,Chemical confirmation,,Five areas,
+POL0041-03,ST0041,Study,ST0041,SA0041-HTL,Nylon,PA/Nylon,8.2,%,,,,FTIR-ATR,Chemical confirmation,,Five areas,
+POL0041-04,ST0041,Study,ST0041,SA0041-HTL,Polystyrene,PS,2.8,%,,,,FTIR-ATR,Chemical confirmation,,Five areas,
+POL0041-05,ST0041,Study,ST0041,SA0041-HTL,Polyester,PES,2,%,,,,FTIR-ATR,Chemical confirmation,,Five areas,
+POL0045-01,ST0045,Study,ST0045,SA0045-GJ,Polyethylene; Polyester; Polyvinyl chloride,PE; PES; PVC,,,1075,27,~90.3% of 27 analyzed particles identified as microplastic,Micro-FTIR,Subset chemical confirmation,,Gujarat + Tamil Nadu salts,"Micro-FTIR performed on 27 of 1075 particles; polymer percentages apply to analyzed/identified subset, not all particles."
+POL0050-01,ST0050,Study,ST0050,SA0050-W,Polyethylene; Polypropylene,PE; PP,,,,,Common polymers,FTIR,Chemical confirmation,,Water/sediment/biota,
+POL0056-01,ST0056,Study,ST0056,SA0056-INF,Polypropylene; Polyethylene; Polystyrene,PP; PE; PS,,,,,Prevalent polymers,Polymer characterization reported,Chemical identification reported,,Seven STPs,
+POL0026-01,ST0026,Study,ST0026,SA0026-S,Polyamide; Polyethylene; Polyethylene glycol; Polyethylene terephthalate; Polypropylene; Polystyrene,PA; PE; PEG; PET; PP; PS,,,,,Detected,FTIR,Chemical confirmation,,14 Kaveri River sites,
+POL0031-01,ST0031,Water + sand,ST0031,SA0031-W,Polyethylene; Polystyrene,PE; PS,,,,,Dominant MP types in water and sand,Polymer characterization reported,Primary publisher highlight,,Seven eastern-coast beaches,
+POL0059-G-PE,ST0059,Basin,Gagribal,SA0059-S,Polyethylene,PE,54.8,%,,,,FTIR,Chemical confirmation,,Gagribal basin,
+POL0059-G-PP,ST0059,Basin,Gagribal,SA0059-S,Polypropylene,PP,19.6,%,,,,FTIR,Chemical confirmation,,Gagribal basin,
+POL0059-G-PS,ST0059,Basin,Gagribal,SA0059-S,Polystyrene,PS,12.2,%,,,,FTIR,Chemical confirmation,,Gagribal basin,
+POL0059-G-PVC,ST0059,Basin,Gagribal,SA0059-S,Polyvinyl chloride,PVC,2.4,%,,,,FTIR,Chemical confirmation,,Gagribal basin,
+POL0059-G-PA,ST0059,Basin,Gagribal,SA0059-S,Polyamide,PA,8,%,,,,FTIR,Chemical confirmation,,Gagribal basin,
+POL0059-G-PET,ST0059,Basin,Gagribal,SA0059-S,Polyethylene terephthalate,PET,2.9,%,,,,FTIR,Chemical confirmation,,Gagribal basin,
+POL0059-N-PE,ST0059,Basin,Nigeen,SA0059-S,Polyethylene,PE,60.2,%,,,,FTIR,Chemical confirmation,,Nigeen basin,
+POL0059-N-PP,ST0059,Basin,Nigeen,SA0059-S,Polypropylene,PP,21.9,%,,,,FTIR,Chemical confirmation,,Nigeen basin,
+POL0059-N-PS,ST0059,Basin,Nigeen,SA0059-S,Polystyrene,PS,17.9,%,,,,FTIR,Chemical confirmation,,Nigeen basin,
+POL0006-R1-PE,ST0006,Study,ST0006,SA0006-BEACH-COUNT,Polyethylene,PE,,,,448,"Main polymer; 448 selected particles analyzed (368 HTL, 80 LTL)",ATR-FTIR,Subset chemical confirmation,,Beach sediment FTIR subset,Do not interpret polymer identity as all particles chemically confirmed.
+POL0006-R1-PP,ST0006,Study,ST0006,SA0006-BEACH-COUNT,Polypropylene,PP,,,,448,"Main polymer; 448 selected particles analyzed (368 HTL, 80 LTL)",ATR-FTIR,Subset chemical confirmation,,Beach sediment FTIR subset,Do not interpret polymer identity as all particles chemically confirmed.
+POL0006-R1-PS,ST0006,Study,ST0006,SA0006-BEACH-COUNT,Polystyrene,PS,,,,448,"Main polymer; 448 selected particles analyzed (368 HTL, 80 LTL)",ATR-FTIR,Subset chemical confirmation,,Beach sediment FTIR subset,Do not interpret polymer identity as all particles chemically confirmed.
+POL0045-R1-PE,ST0045,Study,ST0045,SA0045-GJ,Polyethylene,PE,78,%,1075,27,~90.3% of analyzed subset identified as microplastic,Micro-FTIR,Subset chemical confirmation,,27-particle chemical subset,"Percent applies to identified/analysed subset, not all 1075 particles."
+POL0045-R1-PES,ST0045,Study,ST0045,SA0045-GJ,Polyester,PES,19,%,1075,27,~90.3% of analyzed subset identified as microplastic,Micro-FTIR,Subset chemical confirmation,,27-particle chemical subset,"Percent applies to identified/analysed subset, not all 1075 particles."
+POL0045-R1-PVC,ST0045,Study,ST0045,SA0045-GJ,Polyvinyl chloride,PVC,3,%,1075,27,~90.3% of analyzed subset identified as microplastic,Micro-FTIR,Subset chemical confirmation,,27-particle chemical subset,"Percent applies to identified/analysed subset, not all 1075 particles."

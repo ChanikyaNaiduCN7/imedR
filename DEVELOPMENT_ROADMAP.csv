@@ -1,0 +1,23 @@
+module,status,next_validation
+actual_IMED_schema,implemented,verify bundled CSV hashes against frozen workbook
+core_relations,implemented,run testthat and R CMD check
+comparability_guard,implemented,adversarial mixed-class tests
+mass_basis_hold,implemented,verify all unresolved sediment cases
+descriptive_statistics,implemented,numerical cross-checks
+inferential_statistics,implemented,simulation/reference cross-checks
+meta_eligibility,implemented,independence and uncertainty edge cases
+meta_raw_means,implemented_guarded,reference metafor reproduction
+meta_prevalence,implemented_guarded,zero-event and multi-effect policy tests
+publication_figures,implemented,visual QA and journal presets
+composition_figures,implemented,aggregation-level guard expansion
+qaqc_figures,implemented,study-level deduplication policy review
+mapping,implemented,coordinate provenance/role tests
+provenance_citations,implemented,subset traceability tests
+manuscript_tables,implemented,field completeness review
+meta_regression,planned,minimum-k and moderator policy
+multilevel_meta,planned,within-study dependence model
+effect_size_library,planned,design-specific effect definitions
+size_window_sensitivity,planned,explicit analytical-window eligibility
+risk_synthesis,planned,keep author-derived risk separate from occurrence
+journal_presets,planned,Elsevier/Springer/Wiley generic dimensions
+quarto_report,planned,end-to-end reproducibility report

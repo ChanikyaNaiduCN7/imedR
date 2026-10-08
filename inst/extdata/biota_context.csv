@@ -1,0 +1,31 @@
+Biota_ID,Sample_ID,Scientific_Name,Common_Name,Family,N_Examined,N_Positive,Prevalence_pct,Tissue_Group,Tissue_Components,Feeding_Strategy,Mean_Length,Length_Unit,Mean_Weight,Weight_Unit,Capture_Gear,Capture_Area_or_Notes
+BIO0006,SA0006-FISH,Multiple — 5 species,,,79,7,10.1 source-reported,Gut,,,,,,,,Preserve prevalence discrepancy
+BIO0009-E,SA0009-ED,Multiple — 9 pelagic species,,,270,,7,Edible,Fillet + skin,,,,,,Ring seine,Nearshore 10–50 m depth; up to 12 nautical miles offshore
+BIO0009-I,SA0009-INED,Multiple — 9 pelagic species,,,270,,41.1,Inedible,Gill + viscera,,,,,,Ring seine,Nearshore 10–50 m depth; up to 12 nautical miles offshore
+BIO0081-MUM,SA0081-MUM,Meretrix casta,Yellow clam,Veneridae,50,50,100,Soft tissue,Whole edible soft tissue,Filter feeder,37.42,mm,20.34,g,,Mumbai
+BIO0081-RAT,SA0081-RAT,Meretrix casta,Yellow clam,Veneridae,50,50,100,Soft tissue,Whole edible soft tissue,Filter feeder,38.7,mm,19.79,g,,Ratnagiri
+BIO0081-SIN,SA0081-SIN,Meretrix casta,Yellow clam,Veneridae,50,50,100,Soft tissue,Whole edible soft tissue,Filter feeder,37.56,mm,17.62,g,,Sindhudurg
+BIO0082-1,SA0082-CM1,Meretrix casta,Yellow clam,Veneridae,30,30,100,Soft tissue,Whole edible soft tissue,Filter feeder,,,,,,Mumbai urban coast station 1
+BIO0082-2,SA0082-CM2,Meretrix casta,Yellow clam,Veneridae,30,30,100,Soft tissue,Whole edible soft tissue,Filter feeder,,,,,,Mumbai urban coast station 2
+BIO0082-3,SA0082-CM3,Meretrix casta,Yellow clam,Veneridae,30,30,100,Soft tissue,Whole edible soft tissue,Filter feeder,,,,,,Mumbai urban coast station 3
+BIO0085,SA0085-FRESH,Rastrelliger kanagurta,Indian mackerel,,200,,,Edible muscle,Dressed/degutted edible tissue,,17.49,cm,,,,50 fresh controls; 150 assigned to five salting ratios
+BIO0086,SA0086-AP-SHR,Litopenaeus vannamei,Whiteleg shrimp,,3840,,93.7,Edible tissue,Headless edible portion,,,,,,,Total study shrimp; repeated sampling across 12 ponds
+BIO0087-LM,SA0087-LM-Fresh,Lamellidens marginalis,,,180,,100,Soft tissue,Edible soft tissue,Filter feeder,78.2,mm,37.14,g,,Upper Godavari near Nashik
+BIO0087-PV,SA0087-PV-Fresh,Perna viridis,Green mussel,,180,,100,Soft tissue,Edible soft tissue,Filter feeder,53.25,mm,20.74,g,,Purnagad estuary
+BIO0087-MC,SA0087-MC-Fresh,Meretrix casta,,,180,,100,Soft tissue,Edible soft tissue,Filter feeder,39.68,mm,20.8,g,,Ratnagiri intertidal coast
+BIO0089-ALL,SA0089-ALL,12 freshwater fish species,Mixed freshwater fish,,220,,,GI tract; gills; muscle,GI tract; gills; muscle,Carnivore; herbivore; omnivore; insectivore; detritivore,,,,,,Four sites: Yamuna Nagar and Karnal (Haryana); Sur Ghat and Sonia Vihar (Delhi).
+BI0090-01,SA0090-01,Tor putitora,Golden Mahseer,,30,,,Multiple organs,Gill; gastrointestinal tract (GIT); muscle,,,,,,,Collection site represented by linked SITE record. N_positive/prevalence not reported in accessible primary record.
+BI0090-02,SA0090-02,Tor putitora,Golden Mahseer,,30,,,Multiple organs,Gill; gastrointestinal tract (GIT); muscle,,,,,,,Collection site represented by linked SITE record. N_positive/prevalence not reported in accessible primary record.
+BI0090-03,SA0090-03,Tor putitora,Golden Mahseer,,30,,,Multiple organs,Gill; gastrointestinal tract (GIT); muscle,,,,,,,Collection site represented by linked SITE record. N_positive/prevalence not reported in accessible primary record.
+BI0088-01,SA0088-F,Gudusia chapra,,,,,,Gut,Gut,,,,,,,One of seven native fish species; species-specific abundance within reported 1–5.33 particles/individual range not assigned without table.
+BI0088-02,SA0088-F,Clarias magur,,,,,,Gut,Gut,,,,,,,
+BI0088-03,SA0088-F,Ompok bimaculatus,,,,,,Gut,Gut,,,,,,,
+BI0088-04,SA0088-F,Labeo calbasu,,,,,,Gut,Gut,,,,,,,
+BI0088-05,SA0088-F,Cirrhinus reba,,,,,,Gut,Gut,,,,,,,
+BI0088-06,SA0088-F,Wallago attu,,,,,,Gut,Gut,,,,,,,
+BI0088-07,SA0088-F,Systomus sarana,,,,,,Gut,Gut,,,,,,,
+BI0095-01,SA0095-FE,Etroplus suratensis,Green chromide,,,,,Multiple organs,Muscle; liver; gastrointestinal tract,,,,,,,Farmed/cage-cultured group.
+BI0095-02,SA0095-FW,Etroplus suratensis,Green chromide,,,,,Multiple organs,Muscle; liver; gastrointestinal tract,,,,,,,Wild comparison group.
+BI0095-03,SA0095-FT,Trachinotus blochii,Snubnose pompano,,,,,Multiple organs,Muscle; liver; gastrointestinal tract,,,,,,,Farmed/cage-cultured group.
+BIO0074-ALL,SA0074-F,Cyprinus carpio; Sperata aor; Johnius coitor; Labeo bata,Common carp and three other commercial Ganga fish species,,62,,,GIT and dorsal muscle,Gastrointestinal tract; dorsal muscle,,,,,,,"Varanasi region, Ganga River. Accessible abstract states approximately two-thirds positive in GIT and 15% positive in muscle."
+BIO0076-01,SA0076-F,Cyprinus carpio var. communis; Cyprinus carpio var. specularis,Common carp / mirror carp variants,,,,,Fish occurrence,,,,,,,,Dal Lake four-basin study; fish abundance reported 0–15 MPs/individual.

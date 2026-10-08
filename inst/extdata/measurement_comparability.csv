@@ -1,0 +1,107 @@
+Measurement_ID,Study_ID,Sample_ID,Matrix_Code,Metric_Type,Reported_Unit,Mass_Basis,Comparability_Class,Strict_Synthesis_Eligibility,Reason
+M0003-01,ST0003,SA0003-WAT,WAT-FRESH,Abundance,particles/L,,CMP-W-VOL,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0003-02,ST0003,SA0003-SED,SED-LAKE,Abundance,particles/kg,Not Reported,CMP-SED-UNRESOLVED,NO / DESCRIPTIVE,Sediment mass basis is Not Reported; do not pool with dry- or wet-weight sediment classes.
+M0006-01,ST0006,SA0006-HTL,SED-BEACH,Mass abundance,mg/m²,,CMP-AREA-MASS,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0006-02,ST0006,SA0006-LTL,SED-BEACH,Mass abundance,mg/m²,,CMP-AREA-MASS,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0006-03,ST0006,SA0006-FISH,BIO-FISH,Prevalence,%,,CMP-PREV,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0009-01,ST0009,SA0009-ED,BIO-FISH,Abundance,items/fish,,CMP-BIOTA-I,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0009-02,ST0009,SA0009-ED,BIO-FISH,Abundance,items/g,Wet tissue,CMP-BIOTA-G,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0009-03,ST0009,SA0009-ED,BIO-FISH,Prevalence,%,,CMP-PREV,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0009-04,ST0009,SA0009-INED,BIO-FISH,Abundance,items/fish,,CMP-BIOTA-I,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0009-05,ST0009,SA0009-INED,BIO-FISH,Abundance,items/g,Wet tissue,CMP-BIOTA-G,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0009-06,ST0009,SA0009-INED,BIO-FISH,Prevalence,%,,CMP-PREV,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0013-01,ST0013,SA0013-KAL,ATM-DEP,Deposition flux,items/m²/day,,CMP-ATM-FLUX,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0013-02,ST0013,SA0013-SUJ,ATM-DEP,Deposition flux,items/m²/day,,CMP-ATM-FLUX,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0013-03,ST0013,SA0013-EB,ATM-DEP,Deposition flux,items/m²/day,,CMP-ATM-FLUX,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0019-01,ST0019,SA0019-INF,WW-INF,Abundance,MPs/L,,CMP-WW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0019-02,ST0019,SA0019-EFF,WW-EFF,Abundance,MPs/L,,CMP-WW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0019-03,ST0019,SA0019-SLU,WW-SLD,Abundance,MPs/kg,Dry weight,CMP-SLUDGE,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0015-01,ST0015,SA0015-DUST,DUST-ST,Occurrence,Not reported in main article,,UNCLASSIFIED,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0015-02,ST0015,SA0015-AIR,ATM-AIR,Occurrence,Not reported in main article,,DESCRIPTIVE-OCCURRENCE,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0016-01,ST0016,SA0016-01,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-02,ST0016,SA0016-02,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-03,ST0016,SA0016-03,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-04,ST0016,SA0016-04,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-05,ST0016,SA0016-05,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-06,ST0016,SA0016-06,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-07,ST0016,SA0016-07,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-08,ST0016,SA0016-08,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-09,ST0016,SA0016-09,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-10,ST0016,SA0016-10,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-11,ST0016,SA0016-11,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-12,ST0016,SA0016-12,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-13,ST0016,SA0016-13,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-14,ST0016,SA0016-14,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-15,ST0016,SA0016-15,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-16,ST0016,SA0016-16,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0016-17,ST0016,,DUST-ST,Abundance,particles/100 g,Dry,CMP-DUST-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0017-01,ST0017,SA0017-SALT,FOOD-SALT,Abundance,particles/kg,Product mass,CMP-FOOD,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0017-02,ST0017,SA0017-SALT,FOOD-SALT,Total extracted particles,particles,,CMP-FOOD,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0017-03,ST0017,SA0017-SALT,FOOD-SALT,Mass concentration,µg/kg,Product mass,CMP-MASS,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0018-01,ST0018,,WAT-PACK,Abundance,MPs/L,,CMP-FOOD,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0018-02,ST0018,SA0018-NAT,WAT-PACK,Abundance,MPs/L,,CMP-FOOD,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0018-03,ST0018,SA0018-LOC,WAT-PACK,Abundance,MPs/L,,CMP-FOOD,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0020-01I,ST0020,SA0020-01-IN,WW-INF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-01E,ST0020,SA0020-01-EF,WW-EFF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-02I,ST0020,SA0020-02-IN,WW-INF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-02E,ST0020,SA0020-02-EF,WW-EFF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-03I,ST0020,SA0020-03-IN,WW-INF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-03E,ST0020,SA0020-03-EF,WW-EFF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-04I,ST0020,SA0020-04-IN,WW-INF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-04E,ST0020,SA0020-04-EF,WW-EFF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-05I,ST0020,SA0020-05-IN,WW-INF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-05E,ST0020,SA0020-05-EF,WW-EFF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-06I,ST0020,SA0020-06-IN,WW-INF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-06E,ST0020,SA0020-06-EF,WW-EFF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-07I,ST0020,SA0020-07-IN,WW-INF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0020-07E,ST0020,SA0020-07-EF,WW-EFF,Abundance,items/L,,CMP-WW,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0001-01,ST0001,SA0001-WAT,WAT-FRESH,Abundance,particles/km²,,CMP-W-AREA,RESTRICTED,"Core value is retained, but size/provenance/supplement constraints prevent strict synthesis without additional filtering."
+M0002-01,ST0002,SA0002-S01,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-02,ST0002,SA0002-S02,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-03,ST0002,SA0002-S03,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-04,ST0002,SA0002-S04,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-05,ST0002,SA0002-S05,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-06,ST0002,SA0002-S06,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-07,ST0002,SA0002-S07,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-08,ST0002,SA0002-S08,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-09,ST0002,SA0002-S09,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-10,ST0002,SA0002-S10,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0002-11,ST0002,SA0002-S01,SED-LAKE/SED-EST,Abundance,particles/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0004-01,ST0004,SA0004-SED,SED-RIV,Number abundance,items/kg d.w.,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0004-02,ST0004,SA0004-SED,SED-RIV,Mass abundance,mg/kg d.w.,Dry weight,CMP-MASS,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0004-03,ST0004,SA0004-WAT,WAT-FRESH,Number abundance,items/1000 m³,,CMP-W-NET,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0004-04,ST0004,SA0004-WAT,WAT-FRESH,Mass abundance,mg/1000 m³,,CMP-MASS,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-01,ST0005,SA0005-B01,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-02,ST0005,SA0005-B02,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-03,ST0005,SA0005-B03,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-04,ST0005,SA0005-B04,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-05,ST0005,SA0005-B05,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-06,ST0005,SA0005-B06,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-07,ST0005,SA0005-B07,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-08,ST0005,SA0005-B08,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-09,ST0005,SA0005-B09,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0005-10,ST0005,SA0005-B10,SED-BEACH,Microplastic abundance,items/m²,,CMP-AREA,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0007-J19,ST0007,SA0007-J19,SED-MAR,Abundance,particles/50 g d.w.,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0007-JAN20,ST0007,SA0007-JAN20,SED-MAR,Abundance,particles/50 g d.w.,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0007-J20,ST0007,SA0007-J20,SED-MAR,Abundance,particles/50 g d.w.,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0008-FISH,ST0008,SA0008-FISH,BIO-FISH,Prevalence,%,,CMP-PREV,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0010-OYS,ST0010,SA0010-OYS,BIO-BIV,Abundance,items/individual,Wet tissue,CMP-BIOTA-I,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0010-OYSG,ST0010,SA0010-OYS,BIO-BIV,Abundance,items/g,Wet tissue,CMP-BIOTA-G,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0010-WAT,ST0010,SA0010-WAT,WAT-MAR,Abundance,items/L,,CMP-W-NET,RESTRICTED,Only across-site range is verified in the main paper; exact site values require Supplementary Table S1.
+M0010-SED,ST0010,SA0010-SED,SED-MAR,Abundance,items/kg,Not Reported,CMP-SED-UNRESOLVED,RESTRICTED,Only across-site range is verified in the main paper; exact site values require Supplementary Table S1.
+M0011-WATMAX,ST0011,SA0011-WAT,WAT-EST,Abundance,items/L,,CMP-W-VOL,RESTRICTED,"This is a reported zone maximum, not a complete five-zone series."
+M0011-BIV,ST0011,SA0011-BIV-DG,BIO-BIV,Abundance,items/g tissue,Not Determinable,CMP-BIOTA-G,RESTRICTED,"Mass denominator is items/g tissue, but source does not explicitly state wet vs dry tissue basis; do not compare across records requiring known mass basis."
+M0011-DGMAX,ST0011,SA0011-BIV-DG,BIO-BIV,Abundance,items/g tissue,Not Determinable,CMP-BIOTA-G,RESTRICTED,"Mass denominator is items/g tissue, but source does not explicitly state wet vs dry tissue basis; do not compare across records requiring known mass basis."
+M0011-GMAX,ST0011,SA0011-BIV-GILL,BIO-BIV,Abundance,items/g tissue,Not Determinable,CMP-BIOTA-G,RESTRICTED,"Mass denominator is items/g tissue, but source does not explicitly state wet vs dry tissue basis; do not compare across records requiring known mass basis."
+M0012-GOA-SURF,ST0012,SA0012-GOA-SURF,SOIL-AGR,Abundance,pieces/kg,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0012-GOA-10,ST0012,SA0012-GOA-10,SOIL-AGR,Abundance,pieces/kg,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0012-GOA-20,ST0012,SA0012-GOA-20,SOIL-AGR,Abundance,pieces/kg,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0012-GOA-30,ST0012,SA0012-GOA-30,SOIL-AGR,Abundance,pieces/kg,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0012-UDP-SURF,ST0012,SA0012-UDP-SURF,SOIL-AGR,Abundance,pieces/kg,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0012-UDP-10,ST0012,SA0012-UDP-10,SOIL-AGR,Abundance,pieces/kg,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0012-UDP-20,ST0012,SA0012-UDP-20,SOIL-AGR,Abundance,pieces/kg,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0012-UDP-30,ST0012,SA0012-UDP-30,SOIL-AGR,Abundance,pieces/kg,Dry weight,CMP-SED-DW,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0014-ALL,ST0014,SA0014-AMP1,ATM-DEP,Deposition flux,particles/m²/day,,CMP-ATM-FLUX,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0014-A1,ST0014,SA0014-AMP1,ATM-DEP,Deposition flux,particles/m²/day,,CMP-ATM-FLUX,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0014-A2,ST0014,SA0014-AMP2,ATM-DEP,Deposition flux,particles/m²/day,,CMP-ATM-FLUX,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.
+M0014-A3,ST0014,SA0014-AMP3,ATM-DEP,Deposition flux,particles/m²/day,,CMP-ATM-FLUX,YES — WITHIN CLASS,Metric can be compared only with records meeting the same matrix/denominator/size/evidence conditions.

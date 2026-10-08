@@ -1,0 +1,25 @@
+Table,Field,Definition,Required,Allowed_or_Example,Pilot_Rationale
+STUDIES,Study_ID,Stable study identifier,Yes,ST0001,Primary key
+SITES,Location_Role,Meaning of geographic point/area,Yes,Sampling site; Landing/Purchase point; Facility/site,ST0009
+SITES,Coordinate_Status,How coordinate was obtained,Yes,Controlled vocabulary,ST0003/6/9/13
+SAMPLES,Sample_ID,Stable analytical sampling unit/group,Yes,SA0019-INF,Mandatory layer
+SAMPLES,Treatment_Stage,Process stage where relevant,Conditional,Influent; Effluent; Sludge,ST0019
+SAMPLES,Mass_Basis,Wet/dry basis where relevant,Conditional,Dry weight; Wet tissue; Not Reported,ST0003/19
+MEASUREMENTS,Reported_Value_Text,Exact concise source representation,Yes,5.9 particles/L,Preserves source
+MEASUREMENTS,Metric_Type,Nature of result,Yes,Abundance; Prevalence; Deposition flux,Avoid mixing
+MEASUREMENTS,Denominator_Type,Denominator concept,Yes,Volume; Mass; Area; Individual; Area-time,Comparability
+SIZE_METHODS,Analytical_Lower_Limit_um,Analysis lower limit only,No,100,Not filter pore
+SIZE_METHODS,Operational_Reporting_Cutoff_um,Lower cutoff used for reported counts,No,50,ST0013
+POLYMERS,Evidence_Level,Strength/type of polymer evidence,Yes,FTIR confirmed,ST0013/19
+METHODS_QAQC,Procedural_Blank,Whether explicitly reported,Yes,Yes/No/Not Reported,NR is not No
+PROVENANCE,Target_Record_ID,Record receiving provenance,Yes,M0019-01,Traceability
+SOURCE_DISCREPANCIES,IMED_Action,How IMED handles source conflict,Yes,Preserve both,No silent correction
+PARTICLE_CHARACTERISTICS,Scope_Type,Level to which characteristic applies,Yes,Study; Sample; Site; Biota,Prevents false sample attribution
+PARTICLE_CHARACTERISTICS,Scope_ID,ID matching scope type,Yes,ST0013 or SA0019-SLU,
+POLYMERS,Scope_Type,Level to which polymer distribution applies,Yes,Study; Sample; Site; Biota,Prevents false sample attribution
+MEASUREMENTS,Biota_ID,Optional species/tissue entity link,Conditional,BIO...,Supports species-level results
+MEASUREMENTS,Scope_Type,Level to which measurement applies,Yes,Sample; Biota; Site; Study,Future-proofing
+METHODS_PROCESSING,Method_Step,Normalized analytical workflow step,Yes,Digestion; Density separation; Spectroscopy,Captures protocol variants
+METHODS_PROCESSING,Sample_ID,Optional sample-specific method link,Conditional,SA0009-ED,Needed where tissue protocols differ
+SAMPLES,Temporal_Representativeness,Sampling-window limitation/context,No,Single sampling month,ST0019
+SAMPLES,Protocol_Variant,Named sample-specific processing variant,No,Edible-tissue digestion protocol,ST0009

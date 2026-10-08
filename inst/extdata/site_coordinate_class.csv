@@ -1,0 +1,96 @@
+Site_ID,Study_ID,Site_Name,Latitude,Longitude,Coordinate_Source,Coordinate_Status,Location_Role,GEO_Class,Permitted_Use
+SI0003-01,ST0003,Red Hills Lake,13.166667,80.171528,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0006-01,ST0006,Tamil Nadu southeast coast beaches,,,Not Reported,Not Reported,Sampling area,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0009-01,ST0009,Kalamukku fishing harbour,9.9836,76.2423,Reported by authors,Reported Exact,Landing/Purchase point,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role. Do not interpret as capture/production sampling coordinate.
+SI0013-01,ST0013,Kaliachak,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0013-02,ST0013,Sujapur,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0013-03,ST0013,English Bazar,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0019-01,ST0019,Keshopur WWTP,28.650764,77.082292,Reported by authors,Reported Exact,Facility/site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0015-AIR,ST0015,"IESD-BHU, Banaras Hindu University",,,Not Reported,Not Reported,Air sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0015-DUST,ST0015,"Six urban street-dust sites, Varanasi",,,Supplementary File 1,Not Determinable from main article,Street-dust sampling area,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-01,ST0016,Guindy,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-02,ST0016,Anna Salai,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-03,ST0016,Sardar Patel,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-04,ST0016,Tidel Park,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-05,ST0016,DGP Office,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-06,ST0016,Guindy Industrial Estate,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-07,ST0016,Velachery,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-08,ST0016,MG Road,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-09,ST0016,Moolakadai,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-10,ST0016,Koyembedu,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-11,ST0016,Ayanavaram,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-12,ST0016,Ambathur,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-13,ST0016,Aminjikarai,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-14,ST0016,Simson,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-15,ST0016,Kasimedu,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0016-16,ST0016,Poonamalli,,,City-level coordinate reported; not site-specific,Approximate city reference only,Street-dust sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0017-01,ST0017,Mumbai markets (procurement location),,,Not Reported,Not Reported,Purchase/Procurement point,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point. Do not interpret as capture/production sampling coordinate."
+SI0018-01,ST0018,Nagpur bottled-water market,,,Not Reported,Not Reported,Purchase/Procurement point,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point. Do not interpret as capture/production sampling coordinate."
+SI0020-01,ST0020,Kosli,,,Not Reported,Not Reported,Treatment plant,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0020-02,ST0020,Bawal,,,Not Reported,Not Reported,Treatment plant,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0020-03,ST0020,"Dharuhera, Huda Sec-6",,,Not Reported,Not Reported,Treatment plant,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0020-04,ST0020,"Dharuhera, Vill-Kharkhara",,,Not Reported,Not Reported,Treatment plant,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0020-05,ST0020,"Rewari, Vill-Kaluwas",,,Not Reported,Not Reported,Treatment plant,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0020-06,ST0020,"Rewari, Nasiaji Road-1",,,Not Reported,Not Reported,Treatment plant,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0020-07,ST0020,"Rewari, Nasiaji Road-2",,,Not Reported,Not Reported,Treatment plant,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0001-01,ST0001,Vembanad Lake water survey,,,Not Reported,Not Reported,Sampling area,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0002-01,ST0002,Vembanad Lake Site 1,9.689175,76.381761,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-02,ST0002,Vembanad Lake Site 2,9.679631,76.400103,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-03,ST0002,Vembanad Lake Site 3,9.669939,76.396886,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-04,ST0002,Vembanad Lake Site 4,9.645547,76.401978,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-05,ST0002,Vembanad Lake Site 5,9.623492,76.401642,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-06,ST0002,Vembanad Lake Site 6,9.602444,76.416558,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-07,ST0002,Vembanad Lake Site 7,9.588581,76.408431,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-08,ST0002,Vembanad Lake Site 8,9.577717,76.401147,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-09,ST0002,Vembanad Lake Site 9,9.563347,76.400303,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0002-10,ST0002,Vembanad Lake Site 10,9.554372,76.386992,Converted from reported DMS,Converted from Reported DMS,Sampling site,GEO-3,Point mapping permitted; retain original DMS and converted decimal.
+SI0004-00,ST0004,Lower Ganga River five-city transect,,,Not Reported,Not Reported,Sampling area,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0004-01,ST0004,Ballia,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0004-02,ST0004,Patna,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0004-03,ST0004,Bhagalpur,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0004-04,ST0004,Farakka,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0004-05,ST0004,Diamond Harbour,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-01,ST0005,Aksa,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-02,ST0005,Juhu,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-03,ST0005,Dadar,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-04,ST0005,Girgaon,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-05,ST0005,Vagator,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-06,ST0005,Calangute,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-07,ST0005,Colva,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-08,ST0005,Devbagh,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-09,ST0005,Karwar,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0005-10,ST0005,Kasarkod,,,Not Reported,Not Reported,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0007-00,ST0007,Chennai–Puducherry offshore transect,,,Study extent,Study extent,Sampling area,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0007-01,ST0007,Chennai port 1 km,13.1172,80.3154,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-02,ST0007,Chennai port 10 km,13.111,80.3954,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-03,ST0007,Marina 1 km,13.037,80.2923,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-04,ST0007,Marina 10 km,13.0184,80.3718,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-05,ST0007,Adyar 1 km,13.0104,80.28868,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-06,ST0007,Adyar 10 km,12.9889,80.3678,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-07,ST0007,Kovalam 1 km,12.7957,80.2598,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-08,ST0007,Kovalam 10 km,12.7774,80.3415,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-09,ST0007,Mahabalipuram 1 km,12.6129,80.209,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-10,ST0007,Mahabalipuram 10 km,12.589,80.2884,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-11,ST0007,Kalpakkam 1 km,12.557,80.1883,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-12,ST0007,Kalpakkam 10 km,12.531,80.267,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-13,ST0007,Edaikazhinadu 1 km,12.2817,80.0311,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-14,ST0007,Edaikazhinadu 10 km,12.2499,80.1078,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-15,ST0007,Pondicherry University 1 km,11.972,79.8544,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-16,ST0007,Pondicherry University 10 km,11.9498,79.934,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-17,ST0007,Gandhi statue 1 km,11.9292,79.8452,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-18,ST0007,Gandhi statue 10 km,11.9089,79.925,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-19,ST0007,Fishing harbour 1 km,11.9035,79.84,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-20,ST0007,Fishing harbour 10 km,11.8818,79.9196,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0007-21,ST0007,Paradise Beach 1 km,11.8695,79.8321,Reported by authors,Reported Exact,Sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0008-01,ST0008,Off Kochi — Station 1 (5 m),,,Reported by authors,Reported multiple coordinates,Sampling station,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0008-02,ST0008,Off Kochi — Station 2 (10 m),,,Reported by authors,Reported multiple coordinates,Sampling station,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0008-03,ST0008,Off Kochi — Station 3 (20 m),,,Reported by authors,Reported multiple coordinates,Sampling station,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0010-01,ST0010,Roche Park Site 1,,,Not tabulated numerically,Mapped only,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0010-02,ST0010,Roche Park Site 2,,,Not tabulated numerically,Mapped only,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0010-03,ST0010,Roche Park Site 3,,,Not tabulated numerically,Mapped only,Sampling site,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0011-00,ST0011,Southwest coast bivalve survey,,,Main paper map,Mapped / named,Sampling area,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0012-GOA,ST0012,Goa agricultural fields,,,Study map,Mapped / named,Sampling area,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0012-UDP,ST0012,Udupi agricultural fields,,,Study map,Mapped / named,Sampling area,GEO-1,"Named locality/area only; regional visualization only, not a true sampling point."
+SI0014-01,ST0014,IISER Mohali AMP-1,30.662987,76.728094,Reported by authors,Reported Exact,Rooftop sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0014-02,ST0014,IISER Mohali AMP-2,30.663899,76.732266,Reported by authors,Reported Exact,Rooftop sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.
+SI0014-03,ST0014,IISER Mohali AMP-3,30.663574,76.723551,Reported by authors,Reported Exact,Rooftop sampling site,GEO-4,Author-reported numeric coordinate(s); point mapping permitted subject to Location_Role.

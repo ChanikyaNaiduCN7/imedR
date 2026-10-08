@@ -1,0 +1,39 @@
+Package: imedR
+Type: Package
+Title: Guarded Evidence Synthesis for the Indian Microplastics Evidence Database
+Version: 0.3.1
+Authors@R: person(
+    given = "Chanikya",
+    family = "Naidu",
+    role = c("aut", "cre"),
+    email = "thefisherieschanikyaneeti@gmail.com"
+  )
+Description: A research-grade, guardrail-first interface to the Indian
+    Microplastics Evidence Database ('IMED'). It provides release-data access,
+    relational and scientific validation, comparability-aware filtering,
+    descriptive and inferential statistics, evidence-synthesis eligibility,
+    meta-analysis helpers, publication figures, mapping, provenance and
+    citation retrieval, and manuscript-oriented outputs. Unsafe pooling across
+    incompatible matrices, denominators, mass bases and comparability classes
+    is blocked by default.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.2.0)
+Imports:
+    dplyr,
+    ggplot2,
+    rlang,
+    tibble,
+    readr
+Suggests:
+    testthat (>= 3.0.0),
+    sf,
+    metafor,
+    gt,
+    knitr,
+    rmarkdown,
+    scales
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+Config/roxygen2/version: 8.1.0

@@ -1,0 +1,80 @@
+Derived_ID,Study_ID,Sample_ID,Metric_Name,Value,Unit,Formula,Input_Values,Calculated_By,Reported_or_IMED_Derived,Assumptions_or_Notes
+DER0009-1,ST0009,,Dietary exposure estimate,40–45,MPs/person/year,,Author estimate,Authors,Reported,Separate from occurrence
+DER0019-1,ST0019,SA0019-EFF,Removal efficiency,42.86,%,(7-4)/7*100,Influent 7 MPs/L; effluent 4 MPs/L,Authors,Reported,Separate from occurrence
+DER0018-1,ST0018,SA0018-NAT,Estimated daily intake — children,7 ± 4,p/kg-bw/day,EDI=(C×IR)/bw,"IR 2 L/day adults, 1 L/day children; bw 70 kg adults, 10 kg children",Authors,Reported,Exposure estimate; separate from occurrence
+DER0018-2,ST0018,SA0018-NAT,Estimated daily intake — adults,2 ± 1,p/kg-bw/day,EDI=(C×IR)/bw,"IR 2 L/day adults, 1 L/day children; bw 70 kg adults, 10 kg children",Authors,Reported,Exposure estimate; separate from occurrence
+DER0018-3,ST0018,SA0018-LOC,Estimated daily intake — children,21 ± 10,p/kg-bw/day,EDI=(C×IR)/bw,"IR 2 L/day adults, 1 L/day children; bw 70 kg adults, 10 kg children",Authors,Reported,Exposure estimate; separate from occurrence
+DER0018-4,ST0018,SA0018-LOC,Estimated daily intake — adults,6 ± 3,p/kg-bw/day,EDI=(C×IR)/bw,"IR 2 L/day adults, 1 L/day children; bw 70 kg adults, 10 kg children",Authors,Reported,Exposure estimate; separate from occurrence
+DER0020-01,ST0020,SA0020-01-EF,MP removal efficiency,89.96,%,Reported by authors from influent/effluent concentrations,1.44 → 0.2 items/L,Authors,Reported,Treatment-performance metric; separate from occurrence
+DER0020-02,ST0020,SA0020-02-EF,MP removal efficiency,94.89,%,Reported by authors from influent/effluent concentrations,9.11 → 0.47 items/L,Authors,Reported,Treatment-performance metric; separate from occurrence
+DER0020-03,ST0020,SA0020-03-EF,MP removal efficiency,89.38,%,Reported by authors from influent/effluent concentrations,3.28 → 0.35 items/L,Authors,Reported,Treatment-performance metric; separate from occurrence
+DER0020-04,ST0020,SA0020-04-EF,MP removal efficiency,97.84,%,Reported by authors from influent/effluent concentrations,13.69 → 0.3 items/L,Authors,Reported,Treatment-performance metric; separate from occurrence
+DER0020-05,ST0020,SA0020-05-EF,MP removal efficiency,91.71,%,Reported by authors from influent/effluent concentrations,9.68 → 0.8 items/L,Authors,Reported,Treatment-performance metric; separate from occurrence
+DER0020-06,ST0020,SA0020-06-EF,MP removal efficiency,89.72,%,Reported by authors from influent/effluent concentrations,7.1 → 0.73 items/L,Authors,Reported,Treatment-performance metric; separate from occurrence
+DER0085-CF1,ST0085,SA0085-11,Microplastic contamination factor,218.2,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-PLI1,ST0085,SA0085-11,Pollution load index,206.27,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-CF2,ST0085,SA0085-13,Microplastic contamination factor,100,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-PLI2,ST0085,SA0085-13,Pollution load index,95.3,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-CF3,ST0085,SA0085-15,Microplastic contamination factor,85.8,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-PLI3,ST0085,SA0085-15,Pollution load index,82.07,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-CF4,ST0085,SA0085-17,Microplastic contamination factor,38.4,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-PLI4,ST0085,SA0085-17,Pollution load index,36.32,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-CF5,ST0085,SA0085-110,Microplastic contamination factor,29.3,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0085-PLI5,ST0085,SA0085-110,Pollution load index,28.07,,,Author table,Authors,Reported,Risk/pollution index; separate from occurrence
+DER0087-LM-24h,ST0087,SA0087-LM-24h,Reduction from fresh baseline,27.4,%,(Fresh - treatment)/Fresh × 100,6.87 → 4.99 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-LM-48h,ST0087,SA0087-LM-48h,Reduction from fresh baseline,46,%,(Fresh - treatment)/Fresh × 100,6.87 → 3.71 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-LM-72h,ST0087,SA0087-LM-72h,Reduction from fresh baseline,60,%,(Fresh - treatment)/Fresh × 100,6.87 → 2.75 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-LM-Clean,ST0087,SA0087-LM-Clean,Reduction from fresh baseline,69.1,%,(Fresh - treatment)/Fresh × 100,6.87 → 2.12 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-LM-Gill,ST0087,SA0087-LM-Gill,Reduction from fresh baseline,79.5,%,(Fresh - treatment)/Fresh × 100,6.87 → 1.41 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-PV-24h,ST0087,SA0087-PV-24h,Reduction from fresh baseline,24,%,(Fresh - treatment)/Fresh × 100,10.61 → 8.06 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-PV-48h,ST0087,SA0087-PV-48h,Reduction from fresh baseline,43.9,%,(Fresh - treatment)/Fresh × 100,10.61 → 5.95 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-PV-72h,ST0087,SA0087-PV-72h,Reduction from fresh baseline,52.6,%,(Fresh - treatment)/Fresh × 100,10.61 → 5.03 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-PV-Clean,ST0087,SA0087-PV-Clean,Reduction from fresh baseline,59.2,%,(Fresh - treatment)/Fresh × 100,10.61 → 4.33 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-PV-Gill,ST0087,SA0087-PV-Gill,Reduction from fresh baseline,67.8,%,(Fresh - treatment)/Fresh × 100,10.61 → 3.42 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-MC-24h,ST0087,SA0087-MC-24h,Reduction from fresh baseline,22.6,%,(Fresh - treatment)/Fresh × 100,9.32 → 7.21 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-MC-48h,ST0087,SA0087-MC-48h,Reduction from fresh baseline,44.3,%,(Fresh - treatment)/Fresh × 100,9.32 → 5.19 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-MC-72h,ST0087,SA0087-MC-72h,Reduction from fresh baseline,50,%,(Fresh - treatment)/Fresh × 100,9.32 → 4.66 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-MC-Clean,ST0087,SA0087-MC-Clean,Reduction from fresh baseline,56.5,%,(Fresh - treatment)/Fresh × 100,9.32 → 4.05 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DER0087-MC-Gill,ST0087,SA0087-MC-Gill,Reduction from fresh baseline,65,%,(Fresh - treatment)/Fresh × 100,9.32 → 3.26 items/g,IMED from author-reported means,IMED Derived,"For convenience; paper reports treatment reductions, exact rounded wording may differ."
+DM0089-01,ST0089,SA0089-ALL,Polymer Hazard Index,Category IV,hazard category,Reported PHI framework; exact numeric cumulative PHI not safely extracted here,Polymer composition + hazard scores,Authors,Reported,Risk metric retained separately from occurrence abundance.
+DM0093-01,ST0093,SA0093-SP,Pollution Load Index,,index,Authors' PLI framework,,Authors,Reported,Hotspot PLI >10 reported; retained separately from occurrence.
+DM0093-02,ST0093,SA0093-SP,Potential Ecological Risk Index,,index,Authors' PERI framework,,Authors,Reported,Hotspot PERI >150 reported; retained separately.
+DM0093-03,ST0093,SA0093-SP,Polymer Risk Index,,index,Authors' PRI framework,,Authors,Reported,Retained separately from occurrence.
+DM0096-01,ST0096,SA0096-ES,Pollution Load Index,,index,Authors' PLI framework,,Authors,Reported,Publisher highlights describe PLI as relatively low; numeric values not promoted.
+DM0096-02,ST0096,SA0096-ES,Polymer Hazard Index,,index,Authors' PHI framework,,Authors,Reported,Publisher highlights report elevated PHI; numeric values not promoted.
+DM0096-03,ST0096,SA0096-ES,Potential Ecological Risk Index,,index,Authors' PERI framework,,Authors,Reported,Publisher highlights report elevated PERI/localised ecological threat; numeric values not promoted.
+DM0092-01,ST0092,SA0092-W,Pollution Load Index,,index,Authors' PLI framework,,Authors,Reported,Abstract reports PLI <1 in water and >1 in sediments; exact station values not promoted.
+DM0092-02,ST0092,SA0092-S,Potential Ecological Risk Index,,index,Authors' PERI framework,,Authors,Reported,High to extreme sediment risk described; exact values not promoted.
+DM0092-03,ST0092,SA0092-S,Polymer Hazard Index / Polymer Risk Index / Hazard Index,,index,Authors' risk frameworks,,Authors,Reported,Reported high/extreme sediment chemical/ecological risk; retained separate from occurrence.
+DM0097-01,ST0097,SA0097-ALL,Pollution Load Index,1.46,index,Authors' PLI framework,,Authors,Reported,"Authors classify all sites as hazard level I. Risk category retained as author interpretation, not IMED evidence-quality rating."
+DM0097-02,ST0097,SA0097-ALL,Polymer Hazard Index,48578,index,Authors' PHI framework,,Authors,Reported,Authors report hazard level V. Kept separate from occurrence/comparability.
+DM0097-03,ST0097,SA0097-ALL,Potential Ecological Risk Index,1067,index,Authors' PERI framework,,Authors,Reported,Authors describe this as danger. Kept separate from occurrence/comparability.
+DM0088-PLI,ST0088,SA0088-S,Pollution Load Index,<10,index,,,Authors,Reported,Low PLI at all sites per authors.
+DM0088-PERI,ST0088,SA0088-S,Potential Ecological Risk Index,>1200,index,,,Authors,Reported,Sediment PERI categorized by authors as extreme danger.
+DM0098-HI-T,ST0098,SA0098-S,Microplastic Heterogeneity Index — tourist beaches,0.27,index,,,Authors,Reported,
+DM0098-HI-N,ST0098,SA0098-S,Microplastic Heterogeneity Index — natural beaches,0.18,index,,,Authors,Reported,
+DM0098-HI-C,ST0098,SA0098-S,Microplastic Heterogeneity Index — coastal beaches,0.22,index,,,Authors,Reported,
+DM0094-MPPI,ST0094,SA0094-S,Microplastics Pollution Index,2–5,index/category range,,,Authors,Reported,Author index retained separately from occurrence.
+DM0095-PHI,ST0095,SA0095-FE,Polymer Hazard Index,Category V for most polymers,author category,,,Authors,Reported,
+DM0095-PLI,ST0095,SA0095-FE,Pollution Load Index,Generally <10; water medium risk,author category/index context,,,Authors,Reported,
+DM0079-01,ST0079,SA0079-ALL,Estimated annual intake — children,479.6,MP/kg body weight/year,Authors' exposure framework,,Authors,Reported,Exposure estimate retained separately from occurrence; not a health-risk conclusion.
+DM0069-01,ST0069,SA0069-S1,Pollution Risk Index,125230,index,Authors' PRI framework,,Authors,Reported,S1 Ariyankuppam; kept separate from occurrence/evidence quality.
+DM0070-01,ST0070,SA0070-WAT,Pollution Load Index,2.5,index,Authors' PLI framework,,Authors,Reported,Kept separate from occurrence.
+DM0070-02,ST0070,SA0070-WAT,Pollution Hazard Index,1000,> index,Authors' PHI framework,,Authors,Reported,Source states >1000; 1000 stored only as threshold with unit indicating greater-than.
+DM0064-01,ST0064,SA0064-S,Pollution Load Index,>1,index,Authors' PLI framework,,Authors,Reported,Authors interpret as pollution; kept separate from IMED evidence quality.
+DM0064-02,ST0064,SA0064-S,Risk Quotient,15 locations >1,index threshold,Authors' RQ framework,,Authors,Reported,Exact per-site RQ values not promoted.
+DM0067-01,ST0067,SA0067-S,MP vs rainfall correlation,0.9,r,Correlation,,Authors,Reported,"p<0.05; driver analysis, not occurrence concentration."
+DM0067-02,ST0067,SA0067-S,MP vs urban density correlation,0.52,r,Correlation,,Authors,Reported,p<0.05 within 2 km area.
+DM0067-03,ST0067,SA0067-S,MP vs population density correlation,0.42,r,Correlation,,Authors,Reported,p<0.05 within 2 km area.
+DM0057-01,ST0057,SA0057-S,Pollution Load Index category,Risk category 1,category,Authors' PLI framework,,Authors,Reported,Ecological-risk interpretation stored separately from evidence quality.
+DM0046-01,ST0046,SA0046-W,Pollution Load Index interpretation,Level I risk category,category,Authors' PLI framework,,Authors,Reported,Higher in monsoon; risk metric separate from occurrence.
+DM0027-01,ST0027,SA0027-PRM,PERI range — pre-monsoon,160–440,index,Authors' PERI,,Authors,Reported,Risk metric separate from occurrence/evidence quality.
+DM0027-02,ST0027,SA0027-POM,PERI range — post-monsoon,40–2240,index,Authors' PERI,,Authors,Reported,Risk metric separate from occurrence/evidence quality.
+DM0037-01,ST0037,SA0037-W,PLI/PHI interpretation,Moderate-to-high contamination / minor-to-moderate polymer hazard reported,author interpretation,Authors' PLI/PHI,,Authors,Reported,No IMED quality judgment implied.
+DM0049-01,ST0049,SA0049-INF,STP microplastic removal,>90,%,Authors' treatment removal statement,,Authors,Reported,Treatment-performance metric; not occurrence concentration.
+DM0049-02,ST0049,SA0049-EFF,Estimated environmental release,~30 billion,particles/day,Authors' discharge estimate,,Authors,Reported,"Derived discharge estimate, stored separately."
+DM0056-01,ST0056,SA0056-EFF,Mean overall MP removal,86,%,Authors' pooled STP removal,,Authors,Reported,Seven STPs; treatment-performance metric.
+DM0056-02,ST0056,SA0056-EFF,Technology-specific gross removal,SBR 94; TF 90; AL 88; UASB 87; ASP 85; FAB 84; Bio-tower 77,%,Authors' technology comparison,,Authors,Reported,Not an evidence-quality ranking.
+DM0056-03,ST0056,SA0056-EFF,Estimated Ganga effluent MP release,3 × 10^8,MPs/day,Authors' discharge estimate,,Authors,Reported,"Derived load, not concentration."
+DM0056-04,ST0056,SA0056-SLD,Estimated sludge MP release,4.5 × 10^7,MPs/day,Authors' sludge release estimate,,Authors,Reported,"Derived load, not sludge concentration."
+DM0059-PHI,ST0059,SA0059-S,Polymer Hazard Index — Gagribal,>1000,index,Authors' PHI,,Authors,Reported,Attributed by authors to PVC presence; risk metric separate from occurrence abundance.

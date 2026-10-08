@@ -1,0 +1,7 @@
+Risk_ID,Study_ID,Sample_ID,Risk_Method,Risk_Index,Risk_Category_Reported,Hazard_Score_Source,Background_Value,Background_Geography,Author_Reported,Limitations
+R0013-K,ST0013,SA0013-KAL,Risk Index,279.78,Medium,Maximum polymer toxicity coefficient,66.04 n m−2 d−1,West Asia,Yes,No established technique; possible overestimation
+R0013-S,ST0013,SA0013-SUJ,Risk Index,3535.89,Extreme danger,Maximum polymer toxicity coefficient,66.04 n m−2 d−1,West Asia,Yes,Author category only
+R0013-E,ST0013,SA0013-EB,Risk Index,2467.9,Extreme danger,Maximum polymer toxicity coefficient,66.04 n m−2 d−1,West Asia,Yes,Author category only
+R0019,ST0019,,Polymer Hazard Index,,Categories III–IV,Lithner et al. hazard scores,,,Yes,Separate from occurrence
+R0018-1,ST0018,,Pollution Load Index,Overall PLI 3±1; PLIzone national 2; local 3,Polluted if PLI>1,Tomlinson et al. / Enyoh et al. framework as used by authors,Minimum MP abundance in current study used as baseline,Current study,Yes,Author-derived index; not occurrence measurement
+R0018-2,ST0018,,Polymer Hazard Index,,Hazard level III,Xu et al. / Lithner polymer hazard scores as used by authors,,,Yes,Author-derived polymer-risk index; analyzed FTIR subset not all particles

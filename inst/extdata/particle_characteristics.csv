@@ -1,0 +1,231 @@
+Characteristic_ID,Study_ID,Scope_Type,Scope_ID,Sample_ID,Characteristic_Type,Category,Value,Unit,N,Aggregation_Level,Identification_Method,Evidence_Level,Notes
+PC0003-1,ST0003,Study,ST0003,,Shape,Fiber,37.9,%,,Study pooled,Visual,Suspected,Pooled water+sediment
+PC0003-2,ST0003,Study,ST0003,,Shape,Fragment,27,%,,Study pooled,Visual,Suspected,Pooled water+sediment
+PC0003-3,ST0003,Study,ST0003,,Shape,Film,24,%,,Study pooled,Visual,Suspected,Pooled water+sediment
+PC0003-4,ST0003,Study,ST0003,,Shape,Pellet,11.1,%,,Study pooled,Visual,Suspected,Pooled water+sediment
+PC0013-1,ST0013,Study,ST0013,,Shape,Fragment,38.41,%,,Study pooled,Microscopy,Suspected,Pooled all sites
+PC0013-2,ST0013,Study,ST0013,,Shape,Film,28.96,%,,Study pooled,Microscopy,Suspected,Pooled all sites
+PC0013-3,ST0013,Study,ST0013,,Shape,Fiber,26.6,%,,Study pooled,Microscopy,Suspected,Pooled all sites
+PC0013-4,ST0013,Study,ST0013,,Shape,Sphere,6,%,,Study pooled,Microscopy,Suspected,Pooled all sites
+PC0019-1,ST0019,Sample,SA0019-SLU,SA0019-SLU,Shape,Film,46.31,%,,Matrix,Microscopy,Suspected,
+PC0019-2,ST0019,Sample,SA0019-SLU,SA0019-SLU,Shape,Fiber,35.24,%,,Matrix,Microscopy,Suspected,
+PC0019-3,ST0019,Sample,SA0019-INF,SA0019-INF,Shape,Fiber,63.93,%,,Matrix,Microscopy,Suspected,
+PC0019-4,ST0019,Sample,SA0019-EFF,SA0019-EFF,Shape,Fiber,61.76,%,,Matrix,Microscopy,Suspected,
+PC0015-S1,ST0015,Sample,SA0015-DUST,SA0015-DUST,Shape,Fragment,42,%,,Street dust pooled,Binocular microscopy,Visual,Street dust
+PC0015-S2,ST0015,Sample,SA0015-DUST,SA0015-DUST,Shape,Fiber,33,%,,Street dust pooled,Binocular microscopy,Visual,
+PC0015-S3,ST0015,Sample,SA0015-DUST,SA0015-DUST,Shape,Film,18,%,,Street dust pooled,Binocular microscopy,Visual,
+PC0015-S4,ST0015,Sample,SA0015-DUST,SA0015-DUST,Shape,Spherule,7,%,,Street dust pooled,Binocular microscopy,Visual,
+PC0015-A1,ST0015,Sample,SA0015-AIR,SA0015-AIR,Shape,Fiber,44,%,,Aerosol pooled,Binocular microscopy,Visual,
+PC0015-A2,ST0015,Sample,SA0015-AIR,SA0015-AIR,Shape,Fragment,28,%,,Aerosol pooled,Binocular microscopy,Visual,
+PC0015-A3,ST0015,Sample,SA0015-AIR,SA0015-AIR,Shape,Film,22,%,,Aerosol pooled,Binocular microscopy,Visual,
+PC0015-A4,ST0015,Sample,SA0015-AIR,SA0015-AIR,Shape,Spherule,6,%,,Aerosol pooled,Binocular microscopy,Visual,
+PC0016-1,ST0016,Study,ST0016,,Shape,Fragment,92.46,%,,All street-dust samples,Nile Red fluorescence + visual,Suspected/fluorescent,
+PC0016-2,ST0016,Study,ST0016,,Shape,Fiber,7.54,%,,All street-dust samples,Nile Red fluorescence + visual,Suspected/fluorescent,
+PC0017-1,ST0017,Sample,SA0017-SALT,SA0017-SALT,Shape,Fragment,63,%,626,All extracted particles,Digital microscopy,Visual + representative µ-FTIR,
+PC0017-2,ST0017,Sample,SA0017-SALT,SA0017-SALT,Shape,Fiber,37,%,626,All extracted particles,Digital microscopy,Visual + representative µ-FTIR,
+PC0018-S12,ST0018,Study,ST0018,,Shape,Fragment,71,%,,All brands,Optical + Nile Red fluorescence,Visual/fluorescent,
+PC0018-S13,ST0018,Study,ST0018,,Shape,Fiber,23,%,,All brands,Optical + Nile Red fluorescence,Visual/fluorescent,
+PC0018-S14,ST0018,Study,ST0018,,Shape,Other,6,%,,All brands,Optical + Nile Red fluorescence,Visual/fluorescent,
+PC0018-CBl,ST0018,Study,ST0018,,Color,Black,50,%,,All brands,Optical microscopy,Visual,
+PC0018-CTr,ST0018,Study,ST0018,,Color,Transparent,16,%,,All brands,Optical microscopy,Visual,
+PC0018-CRe,ST0018,Study,ST0018,,Color,Red,13,%,,All brands,Optical microscopy,Visual,
+PC0018-COr,ST0018,Study,ST0018,,Color,Orange,8,%,,All brands,Optical microscopy,Visual,
+PC0018-CYe,ST0018,Study,ST0018,,Color,Yellow,5,%,,All brands,Optical microscopy,Visual,
+PC0018-CGr,ST0018,Study,ST0018,,Color,Green,3,%,,All brands,Optical microscopy,Visual,
+PC0020-I-Pel,ST0020,Study,ST0020-Influent,,Shape,Pellet,2.5,%,,All STP influent samples,Light microscopy / micro-Raman workflow,Reported,
+PC0020-I-Fib,ST0020,Study,ST0020-Influent,,Shape,Fibre,17.7,%,,All STP influent samples,Light microscopy / micro-Raman workflow,Reported,
+PC0020-I-Gra,ST0020,Study,ST0020-Influent,,Shape,Granules,49.8,%,,All STP influent samples,Light microscopy / micro-Raman workflow,Reported,
+PC0020-I-Fra,ST0020,Study,ST0020-Influent,,Shape,Fragments,30,%,,All STP influent samples,Light microscopy / micro-Raman workflow,Reported,
+PC0020-E-Pel,ST0020,Study,ST0020-Effluent,,Shape,Pellet,5.6,%,,All STP effluent samples,Light microscopy / micro-Raman workflow,Reported,
+PC0020-E-Fib,ST0020,Study,ST0020-Effluent,,Shape,Fibre,30.4,%,,All STP effluent samples,Light microscopy / micro-Raman workflow,Reported,
+PC0020-E-Gra,ST0020,Study,ST0020-Effluent,,Shape,Granules,36,%,,All STP effluent samples,Light microscopy / micro-Raman workflow,Reported,
+PC0020-E-Fra,ST0020,Study,ST0020-Effluent,,Shape,Fragments,28,%,,All STP effluent samples,Light microscopy / micro-Raman workflow,Reported,
+PC0002-1,ST0002,Study,ST0002,,Shape,Fiber/line,,,,Study/site presence,Visual microscopy,Suspected,Reported category; site-specific presence in Table 1
+PC0002-2,ST0002,Study,ST0002,,Shape,Film,,,,Study/site presence,Visual microscopy,Suspected,Reported category
+PC0002-3,ST0002,Study,ST0002,,Shape,Fragment,,,,Study/site presence,Visual microscopy,Suspected,Reported category
+PC0002-4,ST0002,Study,ST0002,,Shape,Foam,,,,Study/site presence,Visual microscopy,Suspected,Reported category
+PC0002-5,ST0002,Study,ST0002,,Shape,Pellet,,,,Study/site presence,Visual microscopy,Suspected,Reported category
+PC0004-1,ST0004,Study,ST0004,,Shape,Film,,,,Study pooled,Stereomicroscopy,Suspected,Abstract states film-shaped MPs major contributors
+PC0004-2,ST0004,Study,ST0004,,Color,White,,,,Study pooled,Stereomicroscopy,Suspected,Abstract states white MPs major contributors
+PC0005-1,ST0005,Study,ST0005,,Shape,Fragment,,,,Study pooled,Visual,Suspected,Predominantly abundant microplastic morphology
+PC0005-2,ST0005,Study,ST0005,,Shape,Pellet,,,,Study pooled,Visual,Suspected,Second prominent morphology in study summary
+PC0007-10,ST0007,Sample,SA0007-J19,SA0007-J19,Shape,Fragment,43,%,,Season pooled,Stereo zoom microscopy,Suspected,
+PC0007-11,ST0007,Sample,SA0007-J19,SA0007-J19,Shape,Filament,35,%,,Season pooled,Stereo zoom microscopy,Suspected,
+PC0007-12,ST0007,Sample,SA0007-J19,SA0007-J19,Shape,Film,22,%,,Season pooled,Stereo zoom microscopy,Suspected,
+PC0007-13,ST0007,Sample,SA0007-JAN20,SA0007-JAN20,Shape,Fragment,41,%,,Season pooled,Stereo zoom microscopy,Suspected,
+PC0008-1,ST0008,Study,ST0008,,Shape,Fragment,,,,Water+sediment pooled description,Stereomicroscopy,Suspected,Dominant; followed by Film > Pellet > Fiber > Filament > Foam
+PC0008-2,ST0008,Study,ST0008,,Color,White,,,,Water+sediment pooled description,Stereomicroscopy,Suspected,White and blue dominant
+PC0008-3,ST0008,Study,ST0008,,Color,Blue,,,,Water+sediment pooled description,Stereomicroscopy,Suspected,White and blue dominant
+PC0010-1,ST0010,Sample,SA0010-OYS,SA0010-OYS,Shape,Fiber,61,%,,Oyster pooled,Light microscopy,Suspected,Dominant oyster morphology
+PC0010-2,ST0010,Sample,SA0010-WAT,SA0010-WAT,Shape,Fiber,63,%,,Water pooled,Light microscopy,Suspected,Dominant water morphology
+PC0010-3,ST0010,Sample,SA0010-SED,SA0010-SED,Shape,Fragment,50,%,,Sediment pooled,Light microscopy,Suspected,Dominant sediment morphology
+PC0011-1,ST0011,Study,ST0011,,Shape,Fiber,,,,Bivalve tissues pooled,Stereomicroscopy,Suspected,Most prevalent type across locations
+PC0012-U1,ST0012,Study,ST0012,,Shape,Fiber,86.8,%,,Udupi pooled,Stereomicroscopy,Suspected,
+PC0012-U2,ST0012,Study,ST0012,,Shape,Film,10.3,%,,Udupi pooled,Stereomicroscopy,Suspected,
+PC0012-U3,ST0012,Study,ST0012,,Shape,Fragment,3,%,,Udupi pooled,Stereomicroscopy,Suspected,
+PC0012-G1,ST0012,Study,ST0012,,Shape,Fiber,50.8,%,,Goa pooled,Stereomicroscopy,Suspected,
+PC0012-G2,ST0012,Study,ST0012,,Shape,Film,36.7,%,,Goa pooled,Stereomicroscopy,Suspected,
+PC0014-1,ST0014,Study,ST0014,,Size,Observed range,67–2320,µm,,Study pooled,Stereo microscopy,Suspected,Predominantly <1200 µm
+PC0014-2,ST0014,Study,ST0014,,Shape,Fragments + films/sheets,~90,% of <800 µm,,Study pooled,Stereo microscopy,Suspected,Combined predominant categories below 800 µm
+PC0072-1,ST0072,Study,ST0072,,Shape,Fragment,,,,Study,Stereomicroscope,Visual + FTIR/SEM study confirmation,Reported morphology.
+PC0072-2,ST0072,Study,ST0072,,Shape,Pellet,,,,Study,Stereomicroscope,Visual + FTIR/SEM study confirmation,Reported morphology.
+PC0072-3,ST0072,Study,ST0072,,Shape,Filament/Fibre,,,,Study,Stereomicroscope,Visual + FTIR/SEM study confirmation,Terminology varies in paper.
+PC0072-4,ST0072,Study,ST0072,,Shape,Film,,,,Study,Stereomicroscope,Visual + FTIR/SEM study confirmation,Reported morphology.
+PC0077-SZ1,ST0077,Study,ST0077,SA0077-WAT,Size,<1000 µm,40.65,%,,Study pooled,Polarized light microscopy,Observed size distribution,Very small class.
+PC0077-SZ2,ST0077,Study,ST0077,SA0077-WAT,Size,1000–1500 µm,40,%,,Study pooled,Polarized light microscopy,Observed size distribution,Small class.
+PC0077-SZ3,ST0077,Study,ST0077,SA0077-WAT,Size,1500–2000 µm,10.73,%,,Study pooled,Polarized light microscopy,Observed size distribution,Medium class.
+PC0077-SZ4,ST0077,Study,ST0077,SA0077-WAT,Size,2000–3000 µm,6.18,%,,Study pooled,Polarized light microscopy,Observed size distribution,Large class.
+PC0077-SZ5,ST0077,Study,ST0077,SA0077-WAT,Size,>3000 µm,2.44,%,,Study pooled,Polarized light microscopy,Observed size distribution,Very large class.
+PC0080-W-SH1,ST0080,Sample,SA0080-W1,,Shape,Fragment,83.16,%,,Water pooled across 3 sites,Compound microscopy,Visual; FTIR representative chemical confirmation,
+PC0080-W-SH2,ST0080,Sample,SA0080-W1,,Shape,Fibre,8.42,%,,Water pooled across 3 sites,Compound microscopy,Visual; FTIR representative chemical confirmation,
+PC0080-W-SH3,ST0080,Sample,SA0080-W1,,Shape,Film,8.42,%,,Water pooled across 3 sites,Compound microscopy,Visual; FTIR representative chemical confirmation,
+PC0080-S-SH1,ST0080,Sample,SA0080-S1,,Shape,Fragment,87.61,%,,Sediment pooled across 3 sites,Compound microscopy,Visual; FTIR representative chemical confirmation,
+PC0080-S-SH2,ST0080,Sample,SA0080-S1,,Shape,Fibre,6.41,%,,Sediment pooled across 3 sites,Compound microscopy,Visual; FTIR representative chemical confirmation,
+PC0080-S-SH3,ST0080,Sample,SA0080-S1,,Shape,Film,5.97,%,,Sediment pooled across 3 sites,Compound microscopy,Visual; FTIR representative chemical confirmation,
+PC0080-W-C1,ST0080,Sample,SA0080-W1,,Color,Colourless,41.08,%,,Water pooled across 3 sites,Compound microscopy,Visual,
+PC0080-W-C2,ST0080,Sample,SA0080-W1,,Color,Blue,39.73,%,,Water pooled across 3 sites,Compound microscopy,Visual,
+PC0080-W-C3,ST0080,Sample,SA0080-W1,,Color,Purple,13.47,%,,Water pooled across 3 sites,Compound microscopy,Visual,
+PC0080-W-C4,ST0080,Sample,SA0080-W1,,Color,Yellow,5.05,%,,Water pooled across 3 sites,Compound microscopy,Visual,
+PC0080-S-C1,ST0080,Sample,SA0080-S1,,Color,Colourless,42.26,%,,Sediment pooled across 3 sites,Compound microscopy,Visual,
+PC0080-S-C2,ST0080,Sample,SA0080-S1,,Color,Blue,38.72,%,,Sediment pooled across 3 sites,Compound microscopy,Visual,
+PC0080-S-C3,ST0080,Sample,SA0080-S1,,Color,Purple,15.27,%,,Sediment pooled across 3 sites,Compound microscopy,Visual,
+PC0080-S-C4,ST0080,Sample,SA0080-S1,,Color,Yellow,3.76,%,,Sediment pooled across 3 sites,Compound microscopy,Visual,
+PC0081-SZ,ST0081,Study,ST0081,,Size,1–100 µm,51.36,%,,Study pooled,Microscopy,Observed,Majority size class
+PC0081-SH1,ST0081,Study,ST0081,,Shape,Fibres,,,,Study pooled,Microscopy,Observed,Fibres and fragments predominant
+PC0081-SH2,ST0081,Study,ST0081,,Shape,Fragments,,,,Study pooled,Microscopy,Observed,Fibres and fragments predominant
+PC0082-SZ,ST0082,Study,ST0082,,Size,<100 µm,,%,,Study pooled,Microscopy,Observed,Clams 55.78%; sediment 52.27%; water 54%
+PC0082-SH,ST0082,Study,ST0082,,Shape,Fibres + fragments,92,%,,Clams and seawater pooled statement,Microscopy + Nile Red,Observed,Approx. 92%
+PC0083-SH,ST0083,Study,ST0083,,Shape,Fragments + fibres (<250 µm),70,%,,Study pooled,Microscopy/Nile Red,Observed,Abstract summary
+PC0085-FRESH,ST0085,Sample,SA0085-FRESH,SA0085-FRESH,Prevalence,Fresh mackerel positive,6,%,50,Fresh control,Microscopy/Nile Red,Observed,5 MPs identified among 50 fresh fish
+PC0086-PREV,ST0086,Study,ST0086,,Prevalence,Shrimp samples with MPs,93.7,%,,Study pooled,Microscopy,Observed,
+PC0087-LMF,ST0087,Sample,SA0087-LM-Fresh,SA0087-LM-Fresh,Shape,Fibres,62.2,%,,Fresh sample,Microscopy/Nile Red,Observed,
+PC0087-MCF,ST0087,Sample,SA0087-MC-Fresh,SA0087-MC-Fresh,Shape,Fibres,,%,,Fresh sample,Microscopy/Nile Red,Observed,Source gives treatment trend; exact fresh fibre % not safely transcribed in this pass
+PC0089-01,ST0089,Study,ST0089,SA0089-ALL,Morphology,Fiber,77.8,%,1678,Pooled study,Visual microscopy,Visual + subset chemical confirmation,~1306 particles reported.
+PC0089-02,ST0089,Study,ST0089,SA0089-ALL,Morphology,Fragment,20.7,%,1678,Pooled study,Visual microscopy,Visual + subset chemical confirmation,348 particles.
+PC0089-03,ST0089,Study,ST0089,SA0089-ALL,Morphology,Microbead,0.77,%,1678,Pooled study,Visual microscopy,Visual + subset chemical confirmation,13 particles.
+PC0089-04,ST0089,Study,ST0089,SA0089-ALL,Morphology,Film,0.65,%,1678,Pooled study,Visual microscopy,Visual + subset chemical confirmation,11 particles.
+PC0089-05,ST0089,Study,ST0089,SA0089-ALL,Morphology,Foam,0.53,%,1678,Pooled study,Visual microscopy,Visual + subset chemical confirmation,9 particles.
+PC0089-06,ST0089,Study,ST0089,SA0089-ALL,Color,Transparent,44,%,1678,Pooled study,Visual microscopy,Visual,~739 particles.
+PC0089-07,ST0089,Study,ST0089,SA0089-ALL,Color,Blue,19.5,%,1678,Pooled study,Visual microscopy,Visual,~329 particles.
+PC0089-08,ST0089,Study,ST0089,SA0089-ALL,Color,Black,16.3,%,1678,Pooled study,Visual microscopy,Visual,~275 particles.
+PC0091-01,ST0091,Study,ST0091,SA0091-SED,Morphology,Fiber,45.5,%,,All sediment MPs,Not exposed in accessible text,Source-reported morphology,Publisher abstract/full-text page.
+PC0091-02,ST0091,Study,ST0091,SA0091-SED,Morphology,Fragment,45,%,,All sediment MPs,Not exposed in accessible text,Source-reported morphology,Publisher abstract/full-text page.
+PC0091-03,ST0091,Study,ST0091,SA0091-SED,Morphology,Spherule,9.5,%,,All sediment MPs,Not exposed in accessible text,Source-reported morphology,Publisher abstract/full-text page.
+PC0091-04,ST0091,Study,ST0091,SA0091-SED,Color,Transparent,Dominant,,,All sediment MPs,Visual/source reported,Source-reported color,Transparent dominant across sites.
+PC0091-05,ST0091,Study,ST0091,SA0091-SED,Color,White,Consistently observed,,,All sediment MPs,Visual/source reported,Source-reported color,Other colors showed site-specific variability.
+PC0093-01,ST0093,Study,ST0093,SA0093-SP,Morphology,Fiber,Dominant,,,Pooled study,Nile Red microscopy + FTIR,Visual + chemical characterization,Fibrous forms most prevalent.
+PC0093-02,ST0093,Study,ST0093,SA0093-SP,Morphology,Foam,Dominant/co-dominant,,,Pooled study,Nile Red microscopy + FTIR,Visual + chemical characterization,
+PC0093-03,ST0093,Study,ST0093,SA0093-SP,Color,White/transparent,35–38.6,%,,Pooled study,Microscopy,Visual,
+PC0093-04,ST0093,Study,ST0093,SA0093-SP,Size,100–500 µm,38.2–54.3,%,,Pooled study,Microscopy,Reported size distribution,
+PC0090-01,ST0090,Study,ST0090,SA0090-01,Morphology,Fiber,49.6,%,,Pooled study,Visual/microscopic,Visual only,
+PC0090-02,ST0090,Study,ST0090,SA0090-01,Morphology,Fragment,27.9,%,,Pooled study,Visual/microscopic,Visual only,
+PC0090-03,ST0090,Study,ST0090,SA0090-01,Morphology,Pellet,22.5,%,,Pooled study,Visual/microscopic,Visual only,
+PC0090-04,ST0090,Study,ST0090,SA0090-01,Color,Black + blue,74.4,%,,Pooled study,Visual/microscopic,Visual only,Publisher abstract states black and blue particles accounted for over 74.4%; value retained as reported threshold/context.
+PC0090-05,ST0090,Study,ST0090,SA0090-01,Size,≤500 µm,71.3,%,,Pooled study,Microscopy,Visual only,Distribution threshold; not analytical lower cutoff.
+PC0096-01,ST0096,Study,ST0096,SA0096-ES,Morphology,Fiber,Dominant,,,Pooled/abstract-level,Microscopy,Visual,Fibres dominant; fragments second; films third.
+PC0096-02,ST0096,Study,ST0096,SA0096-ES,Morphology,Fragment,Second most common,,,Pooled/abstract-level,Microscopy,Visual,
+PC0096-03,ST0096,Study,ST0096,SA0096-ES,Morphology,Film,Third most common,,,Pooled/abstract-level,Microscopy,Visual,
+PC0096-04,ST0096,Study,ST0096,SA0096-ES,Color,Blue,Most common / dominant group,,,Pooled/abstract-level,Microscopy,Visual,
+PC0096-05,ST0096,Study,ST0096,SA0096-ES,Color,Transparent,Most common / dominant group,,,Pooled/abstract-level,Microscopy,Visual,
+PC0092-01,ST0092,Study,ST0092,SA0092-W,Morphology,Fiber,Dominant,,,Water + sediment abstract-level,Optical microscopy,Visual + FTIR study characterization,
+PC0092-02,ST0092,Study,ST0092,SA0092-W,Morphology,Fragment,Dominant,,,Water + sediment abstract-level,Optical microscopy,Visual + FTIR study characterization,
+PC0092-03,ST0092,Study,ST0092,SA0092-W,Color,White,Main color,,,Water + sediment abstract-level,Optical microscopy,Visual,
+PC0092-04,ST0092,Study,ST0092,SA0092-W,Color,Transparent,Main color,,,Water + sediment abstract-level,Optical microscopy,Visual,
+PC0097-01,ST0097,Study,ST0097,SA0097-ALL,Size,1–2 mm,23.48,%,,Pooled study,Not Reported in accessible abstract,Reported characteristic,Most prevalent size class.
+PC0097-02,ST0097,Study,ST0097,SA0097-ALL,Color,Blue,34.09,%,,Pooled study,Visual characterization,Visual,Most prevalent colour.
+PC0097-03,ST0097,Study,ST0097,SA0097-ALL,Morphology,Fiber,45.16,%,,Pooled study,Visual characterization,Visual,Most prevalent morphology.
+PC0098-S-FIB,ST0098,Matrix,Sediment,SA0098-S,Morphology,Fiber,46.56,%,,Pooled sediment,Stereomicroscopy,Visual,
+PC0098-W-FIB,ST0098,Matrix,Seawater,SA0098-W,Morphology,Fiber,56.08,%,,Pooled seawater,Stereomicroscopy,Visual,
+PC0094-SZ,ST0094,Study,ST0094,SA0094-S,Size,<1000 µm,74.8,%,,Pooled study,Stereomicroscopy,Visual,
+PC0095-FIB,ST0095,Study,ST0095,SA0095-FE,Morphology,Fiber,Dominant,,,Pooled fish/environment,Microscopy/FTIR-supported study,Reported,Authors trace dominant fibers primarily to cage materials and nearby domestic discharges.
+PC0078-01,ST0078,Study,ST0078,SA0078-L1,Morphology,Fibers and films,Dominant forms,,,Five lakes,Light microscopy,Visual,
+PC0078-02,ST0078,Study,ST0078,SA0078-L1,Color,Blue and red,Predominant colors,,,Five lakes,Light microscopy,Visual,
+PC0079-01,ST0079,Study,ST0079,SA0079-ALL,Morphology,Fragment,56.7,%,,Six brands,Optical/fluorescence microscopy,Visual + complementary spectroscopy,
+PC0079-02,ST0079,Study,ST0079,SA0079-ALL,Color,Transparent,54.8,%,,Six brands,Optical/fluorescence microscopy,Visual,
+PC0079-03,ST0079,Study,ST0079,SA0079-ALL,Size,<40 µm,91,%+,,Six brands,Fluorescence microscopy / micro-Raman,Reported distribution,"Source states more than 91%; stored as threshold, not exact 91.0% prevalence."
+PC0066-01,ST0066,Study,ST0066,SA0066-GW,Morphology,Beads/pellets,Dominant,,,Groundwater + sediment study,Fluorescence microscopy,Visual/fluorescence,
+PC0069-01,ST0069,Study,ST0069,SA0069-S1,Morphology,Fiber,422,count,728,Three cores pooled,Binocular microscopy,Visual + subset FTIR,
+PC0069-02,ST0069,Study,ST0069,SA0069-S1,Morphology,Fragment,243,count,728,Three cores pooled,Binocular microscopy,Visual + subset FTIR,
+PC0070-01,ST0070,Study,ST0070,SA0070-WAT,Morphology,Fiber,Dominant,,,Five beaches,Not exposed in abstract,Reported,
+PC0070-02,ST0070,Study,ST0070,SA0070-WAT,Color,Colourless and white,Prevalent,,,Five beaches,Visual,Reported,
+PC0071-01,ST0071,Study,ST0071,SA0071-WAT,Morphology,Fiber,Dominant,,,Three lakes,Not exposed in abstract,Reported,
+PC0064-01,ST0064,Study,ST0064,SA0064-S,Morphology,Fiber,89.667,%,,31 beaches,Visual characterization,Reported,
+PC0064-02,ST0064,Study,ST0064,SA0064-S,Morphology,Film,8.17,%,,31 beaches,Visual characterization,Reported,
+PC0064-03,ST0064,Study,ST0064,SA0064-S,Morphology,Fragment,1.88,%,,31 beaches,Visual characterization,Reported,
+PC0064-04,ST0064,Study,ST0064,SA0064-S,Morphology,Foam,0.31,%,,31 beaches,Visual characterization,Reported,
+PC0064-05,ST0064,Study,ST0064,SA0064-S,Color,"Transparent, black and blue",Major colors,,,31 beaches,Visual characterization,Reported,
+PC0067-01,ST0067,Study,ST0067,SA0067-S,Morphology,Fibers and fragments,Dominant,,,Patna-region sediment,Not Reported,Publisher highlight/section text,
+PC0067-02,ST0067,Study,ST0067,SA0067-S,Color,White,Dominant,,,Patna-region sediment,Not Reported,Publisher highlight,
+PC0074-01,ST0074,Study,ST0074,SA0074-F,Morphology,Fiber,Majority,,,GIT + muscle,Visual characterization,Reported,
+PC0074-02,ST0074,Study,ST0074,SA0074-F,Color,Black and blue,Dominant,,,GIT + muscle,Visual characterization,Reported,
+PC0075-01,ST0075,Study,ST0075,SA0075-GW,Morphology,"Fibers, fragments and films",Predominant forms,,,60 groundwater samples,Not safely exposed,Reported in abstract,
+PC0076-W1,ST0076,Matrix,water,SA0076-W,Morphology,Pellet,74.74,%,,Water,Fluorescence microscopy,Reported,
+PC0076-W2,ST0076,Matrix,water,SA0076-W,Morphology,Fragment,19.25,%,,Water,Fluorescence microscopy,Reported,
+PC0076-S1,ST0076,Matrix,sediment,SA0076-S,Morphology,Pellet,68.05,%,,Sediment,Fluorescence microscopy,Reported,
+PC0076-S2,ST0076,Matrix,sediment,SA0076-S,Morphology,Fragment,21.83,%,,Sediment,Fluorescence microscopy,Reported,
+PC0076-F1,ST0076,Matrix,fish,SA0076-F,Morphology,Pellet,46,%,,Fish,Fluorescence microscopy,Reported,
+PC0076-F2,ST0076,Matrix,fish,SA0076-F,Morphology,Fiber,34,%,,Fish,Fluorescence microscopy,Reported,
+PC0076-F3,ST0076,Matrix,fish,SA0076-F,Morphology,Fragment,15,%,,Fish,Fluorescence microscopy,Reported,
+PC0022-01,ST0022,Study,ST0022,SA0022-W,Morphology,Fiber,93.8,%,,Five sites,Microscopy,Visual,
+PC0057-01,ST0057,Study,ST0057,SA0057-S,Morphology,Fiber,210,particles/kg wet sediment,,22 sites,Stereo-zoom microscopy,Reported,
+PC0057-02,ST0057,Study,ST0057,SA0057-S,Morphology,Fragment,175,particles/kg wet sediment,,22 sites,Stereo-zoom microscopy,Reported,
+PC0057-03,ST0057,Study,ST0057,SA0057-S,Color,Black,38.8,%,,22 sites,Visual,Reported,
+PC0058-01,ST0058,Study,ST0058,SA0058-WL,Morphology,Fiber,Dominant,,,16 sites,Visual,Reported,
+PC0027-01,ST0027,Study,ST0027,SA0027-PRM,Morphology,"Fragments, films, foams, fibres",Main categories,,,Both seasons,Stereo microscopy,Visual,
+PC0029-01,ST0029,Study,ST0029,SA0029-W,Morphology,Fiber,Majority,,,All matrices,Microscopy,Visual,
+PC0030-W1,ST0030,Water,ST0030-water,SA0030-W,Morphology,Fiber,44.2,%,,Water,Stereomicroscopy,Visual,
+PC0030-W2,ST0030,Water,ST0030-water,SA0030-W,Morphology,Film,24.4,%,,Water,Stereomicroscopy,Visual,
+PC0030-S1,ST0030,Sediment,ST0030-sediment,SA0030-S,Morphology,Fiber,48.3,%,,Sediment,Stereomicroscopy,Visual,
+PC0037-GIT,ST0037,Fish GIT,GIT,SA0037-F,Morphology,Fragment,46,%,,12 species,Morphological analysis,Reported,
+PC0037-GILL,ST0037,Fish gills,gills,SA0037-F,Morphology,Fiber,52.4,%,,12 species,Morphological analysis,Reported,
+PC0040-ED,ST0040,Edible tissue,edible,SA0040-F,Morphology,Fiber,100,%,,Edible tissue MPs,Morphological analysis,Reported,
+PC0040-IN1,ST0040,Inedible tissue,inedible,SA0040-F,Morphology,Fiber,77,%,,Inedible tissue MPs,Morphological analysis,Reported,
+PC0040-IN2,ST0040,Inedible tissue,inedible,SA0040-F,Morphology,Fragment,20.42,%,,Inedible tissue MPs,Morphological analysis,Reported,
+PC0040-IN3,ST0040,Inedible tissue,inedible,SA0040-F,Morphology,Film,2.58,%,,Inedible tissue MPs,Morphological analysis,Reported,
+PC0023-01,ST0023,Beach share,Marina,SA0023-S,Relative distribution,Marina,60.8,%,,Two beaches,Study particle count,Reported,
+PC0023-02,ST0023,Beach share,Pattinapakkam,SA0023-S,Relative distribution,Pattinapakkam,39.2,%,,Two beaches,Study particle count,Reported,
+PC0047-01,ST0047,Study,ST0047,SA0047-SW,Morphology,Fiber,Predominant,,,Both seasons,Morphological characterization,Reported,
+PC0051-01,ST0051,Fish gills,gills,SA0051-F,Morphology,Fiber,More abundant,,,17 species,Morphological characterization,Reported,
+PC0051-02,ST0051,Fish gut,gut,SA0051-F,Morphology,Transparent fragments,More abundant,,,17 species,Morphological characterization,Reported,
+PC0053-W,ST0053,Water,ST0053-water,SA0053-W,Morphology,Fiber,77,%,,Surface water,Stereomicroscopy,Reported,
+PC0053-S,ST0053,Sediment,ST0053-sediment,SA0053-S,Morphology,Fragment,38,%,,Shelf sediment,Stereomicroscopy,Reported,
+PC0054-01,ST0054,Study,ST0054,SA0054-S,Morphology,Fiber,Most abundant,,,SGD + non-SGD,Morphological characterization,Reported,
+PC0054-02,ST0054,Study,ST0054,SA0054-S,Color,Blue,Most abundant,,,SGD + non-SGD,Visual,Reported,
+PC0055-01,ST0055,Study,ST0055,SA0055-W,Morphology,Fiber,Dominant,,,39 lakes,Morphological characterization,Reported,
+PC0055-02,ST0055,Study,ST0055,SA0055-W,Color,Transparent,Dominant,,,39 lakes,Visual,Reported,
+PC0036-ALL1,ST0036,All matrices,ST0036,SA0036-W,Morphology,Fiber,35.6,%,,Fauna + sediment + water,Morphological characterization,Reported,
+PC0036-ALL2,ST0036,All matrices,ST0036,SA0036-W,Morphology,Fragment,33.3,%,,Fauna + sediment + water,Morphological characterization,Reported,
+PC0036-ALL3,ST0036,All matrices,ST0036,SA0036-W,Morphology,Film,28.03,%,,Fauna + sediment + water,Morphological characterization,Reported,
+PC0036-ALL4,ST0036,All matrices,ST0036,SA0036-W,Morphology,Bead,3.03,%,,Fauna + sediment + water,Morphological characterization,Reported,
+PC0039-W,ST0039,Water,ST0039-water,SA0039-W,Morphology,Fiber,54,%,,Water,Visual,Reported,
+PC0039-S,ST0039,Sediment,ST0039-sediment,SA0039-S,Morphology,Fiber,50,%,,Sediment,Visual,Reported,
+PC0039-F,ST0039,Fish,ST0039-fish,SA0039-F1,Morphology,Fragment,65,%,,Both fish species,Visual,Reported,
+PC0035-01,ST0035,Study,ST0035,SA0035-W,Size,<0.5 mm,Abundant,,,Water/sediment/fish,Primary study characterization,Reported,
+PC0042-01,ST0042,Study,ST0042,SA0042-S,Morphology,Fragments and fibres,Dominant,,,Eight beaches,Particle characterization,Reported,
+PC0043-W-FIB,ST0043,Water,WAT,SA0043-W,Morphology,Filamentous,57,%,,24 samples,Optical microscopy,Visual,
+PC0043-WET-FIB,ST0043,Wet sediment,WET,SA0043-WET,Morphology,Filamentous,79,%,,24 samples,Optical microscopy,Visual,
+PC0043-DSS-FIB,ST0043,Dry sand,DSS,SA0043-DSS,Morphology,Filamentous,52,%,,24 samples,Optical microscopy,Visual,
+PC0048-01,ST0048,Sediment + biota,ST0048,SA0048-S,Color,White,Dominant,,,Study,Particle characterization,Reported,
+PC0041-01,ST0041,Study,ST0041,SA0041-HTL,Polymer share,Polyethylene,73.2,%,,Five coastal areas,FTIR-ATR,Chemical confirmation,
+PC0050-01,ST0050,Study,ST0050,SA0050-W,Morphology,Fiber,Common MP type,,,Water/sediment/biota,Microscopy,Reported,
+PC0056-01,ST0056,Study,ST0056,SA0056-INF,Morphology,Black fragments,Prevalent,,,Seven STPs,Morphological characterization,Reported,
+PC0026-FRAG,ST0026,Study,ST0026,SA0026-S,Morphology,Microfragments,39.76–70.64,%,,14 sites,Morphological analysis,Reported,
+PC0026-C1,ST0026,Study,ST0026,SA0026-S,Color,Orange,28,%,,14 sites,Visual,Reported,
+PC0026-C2,ST0026,Study,ST0026,SA0026-S,Color,White,23,%,,14 sites,Visual,Reported,
+PC0026-C3,ST0026,Study,ST0026,SA0026-S,Color,Green,22,%,,14 sites,Visual,Reported,
+PC0026-C4,ST0026,Study,ST0026,SA0026-S,Color,Saffron red,18,%,,14 sites,Visual,Reported,
+PC0059-01,ST0059,Study,ST0059,SA0059-S,Morphology,Fiber,61.8,%,,Gagribal basin,Optical microscopy,Reported,Fibers dominant; fragments/films 36.7%; pellets 1.5%.
+PC0026-C5,ST0026,Study,ST0026,SA0026-S,Color,Others,9,%,,14 sites,Visual,Reported,External human review: completes reported colour distribution.
+PC0093-05,ST0093,Study,ST0093,SA0093-SP,Size,<100 µm,17.3–34.3,%,,Across years,Microscopy,Reported size distribution,Detailed results; retain alongside abstract 100 µm–1 mm statement.
+PC0093-06,ST0093,Study,ST0093,SA0093-SP,Size,500–1000 µm,22.8–34.6,%,,Across years,Microscopy,Reported size distribution,Detailed results.
+PC0006-R1-FRAG,ST0006,Study,ST0006,SA0006-BEACH-COUNT,Morphology,Fragment,47–50,%,,Beach sediment pooled/summary,Visual morphology,Reported,Approximate source-reported range; fragments dominant.
+PC0006-R1-FIB,ST0006,Study,ST0006,SA0006-BEACH-COUNT,Morphology,Line/fibre,24–27,%,,Beach sediment pooled/summary,Visual morphology,Reported,Approximate source-reported range.
+PC0006-R1-FOAM,ST0006,Study,ST0006,SA0006-BEACH-COUNT,Morphology,Foam,10–19,%,,Beach sediment pooled/summary,Visual morphology,Reported,Approximate source-reported range.
+PC0045-R1-FIB,ST0045,Study,ST0045,SA0045-GJ,Morphology,Fiber,88.5,%,1075,Gujarat + Tamil Nadu salts,Optical microscopy,Reported,Study-level pooled morphology.
+PC0045-R1-FILM,ST0045,Study,ST0045,SA0045-GJ,Morphology,Film,4.9,%,1075,Gujarat + Tamil Nadu salts,Optical microscopy,Reported,Study-level pooled morphology.
+PC0045-R1-PEL,ST0045,Study,ST0045,SA0045-GJ,Morphology,Pellet,2.9,%,1075,Gujarat + Tamil Nadu salts,Optical microscopy,Reported,Study-level pooled morphology.
+PC0045-R1-IRR,ST0045,Study,ST0045,SA0045-GJ,Morphology,Irregular,3.7,%,1075,Gujarat + Tamil Nadu salts,Optical microscopy,Reported,Study-level pooled morphology.
+PC0059-R1-GFF,ST0059,Basin,Gagribal,SA0059-S,Morphology,Fragments/films,36.7,%,,Gagribal basin,Optical microscopy,Reported,Source groups fragments/films together.
+PC0059-R1-GPEL,ST0059,Basin,Gagribal,SA0059-S,Morphology,Pellet,1.5,%,,Gagribal basin,Optical microscopy,Reported,
+PC0059-R1-NFIB,ST0059,Basin,Nigeen,SA0059-S,Morphology,Fiber,64.6,%,,Nigeen basin,Optical microscopy,Reported,Fibers dominant.
+PC0059-R1-NFF,ST0059,Basin,Nigeen,SA0059-S,Morphology,Fragments/films,35.4,%,,Nigeen basin,Optical microscopy,Reported,Source groups fragments/films together.

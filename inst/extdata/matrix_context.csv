@@ -1,0 +1,7 @@
+Context_ID,Sample_ID,Context_Domain,Variable,Value,Unit,Status
+MC13K1,SA0013-KAL,Atmosphere,Collector_Height,3,m,Reported
+MC13K2,SA0013-KAL,Atmosphere,Collector_Type,Settle glass jar,,Reported
+MC13S1,SA0013-SUJ,Atmosphere,Collector_Height,3,m,Reported
+MC13E1,SA0013-EB,Atmosphere,Collector_Height,3,m,Reported
+MC09D,SA0009-ED,Biota,Capture_Depth,10–50,m,Reported
+MC09O,SA0009-ED,Biota,Offshore_Extent,up to 12,nautical miles,Reported

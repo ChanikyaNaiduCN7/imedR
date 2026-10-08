@@ -1,0 +1,204 @@
+Method_ID,Study_ID,Sample_ID,Method_Step,Method_Type,Reagent_or_Instrument,Concentration_or_Density,Temperature_C,Duration,Filter_or_Sieve,Instrument_Model,Acceptance_Threshold,Reported_Value_Text,Notes
+MP0003-1,ST0003,,Digestion,Wet peroxide oxidation,H2O2 + Fe(II),,,,,,,,NOAA-style processing
+MP0003-2,ST0003,,Density separation,Salt flotation,NaCl,1.2 g/mL,,,,,,,
+MP0003-3,ST0003,,Chemical identification,Spectroscopy,ATR-FTIR,,,,,,,ATR-FTIR,Confirmation subset N not reported
+MP0006-1,ST0006,,Density separation,Salt flotation,NaCl,120 g/L,,,,,,,
+MP0006-2,ST0006,,Chemical identification,Spectroscopy,FTIR,,,,,,,FTIR,"448 particles analyzed; 368 HTL, 80 LTL"
+MP0009-1,ST0009,SA0009-ED,Digestion,Alkaline digestion,KOH,10%,60,24 h,,,,10% KOH; 60°C; 24 h,Edible tissue
+MP0009-2,ST0009,SA0009-INED,Digestion,Alkaline digestion,KOH,10%,40,72 h,,,,10% KOH; 40°C; 72 h,Inedible tissue
+MP0009-3,ST0009,,Chemical identification,Spectroscopy,FTIR,,,,,Nicolet iS10,>70% accepted; 60–70% individually examined,90 particles >100 µm selected,<60% rejected
+MP0013-1,ST0013,,Digestion,Oxidative digestion,H2O2,30%,Room temperature,7 days,,,,,1 g TAD dust + 10 mL H2O2
+MP0013-2,ST0013,,Density separation,Primary density separation,ZnCl2,1.6 g/cm3,,,,,,,
+MP0013-3,ST0013,,Density separation,Secondary density separation,NaI,60%,,,,,,,Sequential after ZnCl2
+MP0013-4,ST0013,,Fluorescence identification,Nile Red,Nile Red,0.5 mg/L acetone,,,,Carl Zeiss Axioscope 5 FL,,,Probable polymer categories must remain distinct from FTIR
+MP0013-5,ST0013,,Chemical identification,Spectroscopy,FTIR,,,,,Thermo Nicolet 5700,>60% plastic confidence; >70% MP quality index wording,,
+MP0019-1,ST0019,,Digestion,Wet peroxide oxidation,0.05 M Fe(II) + 30% H2O2,,65,1–2 h,,,,,20 g sludge / 1 L wastewater separately
+MP0019-2,ST0019,,Density separation,Salt flotation,NaCl,6 g per 20 mL,75,30 min; separator overnight,,,,,
+MP0019-3,ST0019,,Microscopy,Optical microscopy,,,,,,Olympus CX31 40×,,,
+MP0019-4,ST0019,,Morphology,SEM,,,,,,JEOL JSM IT 200,,,Selected MPs
+MP0019-5,ST0019,,Chemical identification,micro-Raman,,,,,,Horiba Xplora; 785 nm,High Pearson correlation; numeric threshold not reported,200–3500 cm−1,OpenSpecy comparison
+MP0015-1,ST0015,SA0015-DUST,Digestion,Oxidative digestion,30% H2O2,,,8–10 days,,,,15 g street dust + 35 mL H2O2; until bubbling ceased,
+MP0015-2,ST0015,,Density separation,ZnCl2 flotation,ZnCl2,1.6 g/cm3,,1–2 h settling; centrifuge 4000 rpm 4 min,0.45 µm cellulose nitrate,,,Extraction repeated three times,
+MP0015-3,ST0015,,Identification,Microscopy + spectroscopy,Binocular; fluorescence; SEM-EDX; FTIR,,,,,Catscope; Nikon Eclipse 90i; ZEISS EVO 18; PerkinElmer Spectrum 10.4.3,,FTIR 400–4000 cm−1,
+MP0016-1,ST0016,,Digestion,Wet peroxide oxidation,30% H2O2 + 0.05 M Fe(II),,75,30 min heat + 24 h stand,,,,20 mL H2O2 + 20 mL Fe(II) per 100 g aliquot,
+MP0016-2,ST0016,,Density separation,NaCl flotation,Saturated NaCl,1.2 g/cm3,,2 min stir + 24 h stand,"Whatman Grade 1, reported 11 µm pore, 60 mm diameter",,,,
+MP0016-3,ST0016,,Identification,Nile Red fluorescence,Nile Red,working solution 5 µg/mL from 1 mg/mL stock,,30 min before microscopy,,Olympus CX41,,Blue excitation 420–495 nm; 40–100×,
+MP0016-4,ST0016,,Chemical identification,Confocal Raman,Raman spectroscopy,,,,,Horiba XploRA Plus V1.2,,35 randomly chosen; 32 identified; 200–3500 cm−1; 30 s acquisition,
+MP0017-1,ST0017,SA0017-SALT,Digestion,Oxidative digestion,30% H2O2,,65,24 h at 65°C/80 rpm + 48 h at 30–35°C,,,,80 mL filtered H2O2 per 200 g salt replicate,
+MP0017-2,ST0017,SA0017-SALT,Dissolution/filtration,Salt dissolution + vacuum filtration,Filtered distilled water,,,,0.45 µm cellulose nitrate,,,800 mL water; centrifugation 3500 rpm 15 min used for samples with salt cake,
+MP0017-3,ST0017,SA0017-SALT,Chemical identification,µ-FTIR,Micro-FTIR,,,,,Bruker Hyperion 3000 + Vertex 80,,4000–400 cm−1; 4 cm−1 resolution; 100×100 µm aperture; OPUS database,
+MP0018-1,ST0018,,Filtration,Vacuum filtration,Glass microfiber filter,,,,1.6 µm Whatman glass microfiber,,,No additional sample treatment,
+MP0018-2,ST0018,,Identification,Optical + Nile Red fluorescence,Nile Red 1 µg/mL in methanol,,60,10 min dark incubation,,Olympus BX51,,Optical 10× and 40×; fluorescence confirmation,
+MP0018-3,ST0018,,Chemical identification,ATR-FTIR,ATR-FTIR,,,,,Bruker Vertex 70 diamond ATR,,Visible particles manipulable with tweezers; 600–4000 cm−1; 4 cm−1; 32 scans,
+MP0020-1,ST0020,,Identification,Light microscopy + micro-Raman,Micro-Raman spectrometry,,,,,,,1782 plastic-like particles examined; 1117 (62.68%) identified as MPs,Main article gives a conceptual workflow but lacks enough reproducible pretreatment detail for a fully normalized protocol.
+MP0001-1,ST0001,,Chemical identification,Spectroscopy,micro-Raman,,,,,,,micro Raman spectroscopy,Extraction details sparse in conference proceedings
+MP0002-1,ST0002,,Digestion,Wet peroxide oxidation,H2O2,30%,,,,,,30% hydrogen peroxide,NOAA protocol
+MP0002-2,ST0002,,Density separation,Salt flotation,NaCl,1.3 g/mL,,,,,,NaCl density 1.3 g/mL,
+MP0002-3,ST0002,,Filtration,Filtration,Whatman GF/A,,,,25 mm filter diameter,,,Whatman GF/A filter paper (25 mm),Pore size not stated
+MP0002-4,ST0002,,Chemical identification,Spectroscopy,micro-Raman,,,10 s,,WITec Alpha 300RA,KnowItAll Raman library,532 nm; 600 grooves/mm; 50× objective,Raman confirmation
+MP0004-1,ST0004,SA0004-WAT,Digestion,Fenton/WPO,FeSO4 + 30% H2O2,,70,,,,,Fenton reagent at 70°C until digestion,
+MP0004-2,ST0004,,Density separation,Salt flotation,NaCl,5 M,,overnight / 12 h sediment,,,,5 M NaCl,Sediment ratio 1:3 w/v; extraction repeated twice
+MP0004-3,ST0004,,Filtration,Glass-fiber filtration,Whatman GF/F,,,,47 mm; 1.2 µm pore,,,"GF/F 47 mm, pore size 1.2 µm",
+MP0004-4,ST0004,,Chemical identification,ATR-FTIR,Thermo Scientific Nicolet iS5,,,,,Nicolet iS5,Hummel polymer sample library,4000–400 cm−1; 4 cm−1 resolution; 32 scans,Diamond ATR
+MP0005-1,ST0005,,Size separation,Sieving,Stainless-steel sieves,~1 and 2 mm,,,~1 and 2 mm,,,Pre-cleaned stainless-steel sieves,Microplastics operationally ~1–5 mm
+MP0005-2,ST0005,,Chemical identification,ATR-FTIR,Shimadzu ATR-FTIR,,,,,,Shimadzu ATR polymers library,High-quality representative plastic materials analyzed,Polymer assignment from reference library
+MP0007-1,ST0007,,Density separation,Salt flotation,NaCl,1.2 g/mL,,5–10 min stir; 10–15 min settle; repeated 3×,,,,50 g sediment + 200 mL saturated NaCl,Prefiltered solution
+MP0007-2,ST0007,,Digestion,Oxidative digestion,H2O2,30%,,24 h,,,,5–15 mL 30% H2O2,Added to supernatant
+MP0007-3,ST0007,,Filtration,Vacuum filtration,GF/F,,,,0.7 µm pore,,,GF/F 0.7 µm,Filter pore not analytical cutoff
+MP0007-4,ST0007,,Chemical identification,Raman microscopy,Renishaw Raman microscope,,,,,Renishaw Raman microscope,,532 nm; 100–3500 cm−1; 50×/100× objectives,Polymer identification
+MP0007-5,ST0007,,Surface morphology,SEM,JEOL JSM-IT500,,,,,JSM-IT500,,SEM for weathering/surface morphology,Selected MPs
+MP0008-1,ST0008,SA0008-WAT,Sampling,Net haul,Working Party Net,200 µm,,10 min,,,,1 knot for 10 min,Surface water
+MP0008-2,ST0008,SA0008-SED,Density separation,Salt flotation,NaCl,5 M; d=1.15 g/mL,,10 min stir + 5 min settle,,,,NOAA-style protocol,Sediment
+MP0008-3,ST0008,SA0008-FISH,Digestion,Wet peroxide oxidation,H2O2,30%,75,,,,,30% H2O2 at 75°C,Fish digestive tracts
+MP0008-4,ST0008,SA0008-FISH,Chemical identification,Raman,LabRAM HR micro-Raman,514.5 nm,,,,Horiba Jobin Yvon,,Argon ion laser 514.5 nm,Fish MPs
+MP0010-1,ST0010,SA0010-OYS,Digestion,Alkaline digestion,KOH,10%,50,72 h,,,,180 mL 10% KOH,Oyster soft tissue
+MP0010-2,ST0010,SA0010-OYS,Density separation,Salt flotation,NaI,1.6 g/mL; 3.3 M,,,,,,500 mL saturated NaI,Oyster
+MP0010-3,ST0010,,Chemical identification,ATR-FTIR,FTIR-ATR,,,,,,≥80% library confidence,60 particles >0.5 mm selected,Across matrices
+MP0011-1,ST0011,SA0011-WAT,Digestion,Wet peroxide oxidation,H2O2,30%,90,24 h drying before WPO,,,,Water solids dried 24 h at 90°C then 30% H2O2,Water
+MP0011-2,ST0011,SA0011-WAT,Density separation,Salt flotation,NaCl,5 M,,,,,,5 M NaCl,Water
+MP0011-3,ST0011,SA0011-BIV-DG,Digestion,Enzymatic,Proteinase-K,8 mg,50,2 h,,,,0.3 g tissue in buffer; Proteinase-K,Digestive gland; followed by sodium perchlorate 60°C 20 min
+MP0011-4,ST0011,,Chemical identification,Raman,Renishaw digital laser Raman,785 nm,,10 s,,M-9836–3991-01-A,≥80% library confidence,50×; 1200 grooves/mm,20 particles analyzed
+MP0012-1,ST0012,,Dispersion,Soil dispersion,Sodium hexametaphosphate,300 mL,,1 h at 250 rpm,,,,400 g dry soil,Common protocol
+MP0012-2,ST0012,,Density separation,ZnCl2 flotation,ZnCl2,933.3 g/L,,24 h,,,,300 mL ZnCl2; second separation 150 mL,Common protocol
+MP0012-3,ST0012,,Digestion,Oxidative digestion,H2O2,30 mL,,48 h,,,,H2O2 after 5 mm/100 µm sieving,Common protocol
+MP0012-4,ST0012,,Chemical identification,ATR-FTIR,ATR-FTIR,400–4000 cm−1,,,,,,92 MPs in 1–5 mm and 0.3–1 mm ranges analyzed,Common protocol
+MP0014-1,ST0014,,Sampling,Passive deposition,Stainless-steel/glass funnel,15.75 cm diameter,,Weekly × 18 weeks,,,,2.5 L amber glass bottle,Three rooftops
+MP0014-2,ST0014,,Digestion/density separation,Sequential processing,30% H2O2 + saturated ZnCl2,ZnCl2 1.6–1.7 g/cm³,,,0.2 µm glass fiber,,,"Filter, digest, ZnCl2 rinse, refilter",All 54 samples
+MP0014-3,ST0014,,Chemical identification,Raman,Renishaw InVia Raman microscope,785 nm; 1200 grating,,10 s,,Renishaw InVia,,500–3000 cm−1; 2 cm−1 resolution,700 selected particles
+MP0072-1,ST0072,,Pre-processing,Air drying,Natural air,,,Few days,3–5 mm sieves,,,Air dried then sieved 3–5 mm,
+MP0072-2,ST0072,,Density separation,Salt flotation,NaCl,,,,,,,NaCl solution,Density not reported.
+MP0072-3,ST0072,,Digestion,Wet peroxide oxidation,30% H2O2 + FeSO4·2H2O,30 mL H2O2 + 0.29 g Fe salt,,,,,,30 mL 30% H2O2 + 0.29 g FeSO4·2H2O,
+MP0072-4,ST0072,,Drying/filtration,Oven + filter,Whatman filter paper,,60,24–48 h then 24 h,Whatman filter paper,,,Oven drying and filtration,Filter grade/pore size not reported.
+MP0072-5,ST0072,,Identification,Visual + chemical,Stereomicroscope; FTIR; SEM,,,,,,,Stereomicroscope followed by FTIR and SEM,FTIR acceptance threshold not reported.
+MP0077-1,ST0077,SA0077-WAT,Pre-screen,Size exclusion,Stainless-steel sieve,,,,5 mm sieve,,,All samples passed through 5 mm sieve,
+MP0077-2,ST0077,SA0077-WAT,Digestion,Wet peroxide oxidation / Fenton,30% H2O2 + 0.05 M Fe(II),20 mL H2O2 + Fe(II),,10–15 min,,,,WPO + Fenton reagent,
+MP0077-3,ST0077,SA0077-WAT,Density separation,Salt flotation,NaCl,300 g/L; rho ~1.2 g/cm3,,24 h settling,,,,Saturated NaCl; manual stir ~2 min,
+MP0077-4,ST0077,SA0077-WAT,Filtration,Vacuum filtration,Whatman Grade 1 + Grade 42,,,,11 µm and 2.5 µm pore filters,,,Two-step filtration,"Filter pores are processing filters, not analytical cutoff."
+MP0077-5,ST0077,SA0077-WAT,Visual identification,Polarized light microscopy,Nikon ECLIPSE Ci-POL,4–10X,,,,Nikon ECLIPSE Ci-POL,,Standardized visual criteria,
+MP0077-6,ST0077,SA0077-WAT,Polymer identification,FTIR,PerkinElmer SPECTRUM 100 / FRONTIER IR,4000–400 cm−1; 2 cm−1 resolution,,,,PerkinElmer FTIR,,Representative n=154,SpectraBase matching; numeric threshold NR.
+MP0077-7,ST0077,SA0077-WAT,Elemental analysis,EDX,Oxford INCA Model 7582,14 keV,,,,Oxford INCA 7582,,Elemental signatures,Used to assess elemental signatures / exclude non-polymeric contaminants.
+MP0080-W1,ST0080,SA0080-W1,Pre-screen,Sequential sieving,Stainless-steel sieves,325 µm; 100 µm,,,325 and 100 µm,,,Defined retained water MP window 100 µm–5 mm,
+MP0080-W2,ST0080,SA0080-W1,Digestion,Modified Fenton/WPO,30% H2O2,20 mL,60,30 min,,,,Organic matter digestion,
+MP0080-W3,ST0080,SA0080-W1,Density separation,Salt flotation,NaCl,0.5 M,75,≥30 min + 24 h settling,,,,NaCl density separation,
+MP0080-W4,ST0080,SA0080-W1,Filtration,Filtration,Glass microfiber filter,,,,11 µm pore,,,Supernatant filtered,"Pore size is processing filter, not analytical cutoff."
+MP0080-S1,ST0080,SA0080-S1,Pre-processing,Air dry + sieve,Stainless-steel meshes,1–5 mm,,,1–5 mm meshes,,,50 g dry subsample processed,
+MP0080-S2,ST0080,SA0080-S1,Disaggregation,Mechanical stirring,Distilled water,20 mL,,15 min,,,,2200 rpm,
+MP0080-S3,ST0080,SA0080-S1,Density separation,Dual salt flotation,NaCl + ZnCl2,5 M each,,~24 h settling,,,,20 mL each,
+MP0080-S4,ST0080,SA0080-S1,Digestion,Peroxide oxidation,30% H2O2,,60,24 h,,,,Post-density-separation digestion,
+MP0080-S5,ST0080,SA0080-S1,Filtration,Filtration,Whatman CAT No. 42,,,,Whatman No. 42,,,Final visualization filter,
+MP0080-ID1,ST0080,,Visual identification,Compound microscopy,MAGNUS CH201,10× and 40×,,,,MAGNUS CH201,,Manual count; ImageJ size measurement,
+MP0080-ID2,ST0080,,Polymer identification,FTIR,Agilent Technology Cary 360 h,600–3600 cm−1,,,,Agilent Cary 360 h,,Representative particles selected by size/shape/color,Numeric library-match threshold NR.
+MP0081-1,ST0081,,Digestion,Acid digestion,Nitric acid,69%,40,3 days,,,,30 mL per bivalve,
+MP0081-2,ST0081,,Density separation,Salt flotation,Sodium iodide,4.4 M,,,0.45 µm cellulose nitrate,,,,
+MP0081-3,ST0081,,Chemical identification,Spectroscopy,Confocal micro-Raman,,,,,Horiba Jobin Yvon HR800-UV,,,
+MP0082-1,ST0082,,Digestion,Oxidative digestion,Hydrogen peroxide,30%,,,,,,,Water/sediment processing
+MP0082-2,ST0082,,Chemical identification,Spectroscopy,Laser Raman Spectroscopy,,,,,,,135 MPs selected; 45/station (15 each sediment/water/clam),8 spectra did not match database
+MP0083-1,ST0083,,Identification,Fluorescence + spectroscopy,Nile Red + LUMOS II µ-FTIR,,,,,Bruker LUMOS II,,,
+MP0085-1,ST0085,,Curing experiment,Salting + drying,Solar salt,"Ratios 1:1,1:3,1:5,1:7,1:10",45,24 h salting + 8 h drying,,,,,Controlled laboratory experiment
+MP0085-2,ST0085,,Identification,Fluorescence + spectroscopy,Nile Red + µ-FTIR,,,,,,,,
+MP0086-1,ST0086,,Digestion,Alkaline digestion,KOH,,,3 days,,,,,
+MP0086-2,ST0086,,Chemical identification,µ-FTIR,Bruker LUMOS,,,,,Bruker LUMOS,>70%,744 spectra: 384 shrimp + 360 feed/water/sediment,OpenSpecy reference library
+MP0087-1,ST0087,,Digestion/isolation,Enzymatic digestion + sequential filtration/density separation,,,,,,,,,
+MP0087-2,ST0087,,Identification,Microscopy + Nile Red,Olympus SZX16,,,,,Olympus SZX16,,Duplicate filter examination; 10% filters re-analyzed,
+MP0087-3,ST0087,,Chemical identification,µ-ATR-FTIR,LUMOS II,,,,,Bruker LUMOS II,≥80%,720 particles; 40 per treatment group per species,OpenSpecy database
+MP0089-01,ST0089,SA0089-ALL,Digestion,Wet peroxide oxidation,30% H2O2,30%,65,24–72 h,,,,30% H2O2; 65°C; 80 rpm; 24–72 h,Fish organs processed separately.
+MP0089-02,ST0089,SA0089-ALL,Density separation,Density separation,NaCl,23–25% saturated saline,,2–3 weeks,,,,Filtered 23–25% saturated NaCl; settling 2–3 weeks,Density value not reported.
+MP0089-03,ST0089,SA0089-ALL,Filtration,Vacuum filtration,Whatman GF/C membrane filter,,,,47 mm diameter; 0.45 µm,,,"Glass fiber filter 47 mm, 0.45 µm","Filter pore is processing metadata, not analytical cutoff."
+MP0089-04,ST0089,SA0089-ALL,Visual identification,Microscopy,Stereo + upright microscopy,,,,,Olympus SZ61; Nikon Eclipse Ei,,40–1000×,Manual quantification.
+MP0089-05,ST0089,SA0089-ALL,Polymer identification,ATR-FTIR,FTIR,,,,,Nicolet iS50 FTIR Tri-detector,≥80%,~200 µm–5 mm; 4000–400 cm−1; 30–100 scans; ~8 cm−1 resolution,"Open Specy, Hummel, FLOPP/FLOPP-e libraries; minimum 80% spectral library match accepted as confirmation."
+MP0089-06,ST0089,SA0089-ALL,Surface characterization,SEM-EDAX,SEM-EDAX,,,,,JEOL JSM 6610LV,,,Used for surface morphology/elemental composition; FTIR used for polymer confirmation.
+MP0093-01,ST0093,SA0093-SP,Drying / subsampling,Oven drying and fixed dry-mass subsampling,,,50,72 h,,,,Bulk ~300 g homogenized; sediment oven-dried at 50°C for 72 h; 50 g dry weight processed.,Full-text verified in GATE03P review.
+MP0093-02,ST0093,SA0093-SP,Density separation,Salt flotation,NaCl,~1.2 g/cm³,,24 h settling,,,,Saturated NaCl; density verified by calibrated hydrometer; supernatant separated after 24 h.,Full-text verified.
+MP0093-03,ST0093,SA0093-SP,Digestion,Oxidation,30% H2O2,,,12 h,,,,50 mL of 30% H2O2 used after density separation.,Full-text verified.
+MP0093-04,ST0093,SA0093-SP,Identification,Nile Red microscopy + FTIR,Nile Red; FTIR (PerkinElmer Spectrum Two),,,,Whatman filter paper,PerkinElmer Spectrum Two,,Nile Red staining/polarized microscopy for detection; FTIR for polymer characterization.,Full-text verified.
+MP0090-01,ST0090,SA0090-01,Digestion,Tissue digestion,KOH,,,,,,,Tissues analyzed using digestion with KOH,"KOH concentration, temperature and duration not exposed in accessible primary record."
+MP0090-02,ST0090,SA0090-01,Identification,Microscopic visual/morphological identification,Microscopy,,,,,,,Particle identification based on visual and morphological criteria,FTIR or Raman polymer confirmation explicitly not performed.
+MP0096-01,ST0096,SA0096-ES,Separation,Density separation,Not Reported in accessible primary text,,,,,,,Sediments analysed using density separation,Density medium and density not promoted without full method text.
+MP0096-02,ST0096,SA0096-ES,Visual identification,Microscopy,Microscopy,,,,,,,Sediments analysed using microscopy,
+MP0096-03,ST0096,SA0096-ES,Polymer identification,Raman spectroscopy,Raman spectroscopy,,,,,,,"Raman analysis identified PE and PP as major polymers, with polyester, nylon and poly(acrylamide) also reported.","Instrument model, spectral threshold and fraction chemically analysed not safely exposed."
+MP0092-01,ST0092,SA0092-W,Identification,Optical microscopy,Optical microscope,,,,,,,Microplastics analysed using optical microscopy,
+MP0092-02,ST0092,SA0092-W,Polymer identification,FTIR,Fourier transform infrared spectroscopy,,,,,,,Polymer composition assessed using FT-IR,
+MP0092-03,ST0092,SA0092-W,Surface characterization,SEM,Scanning electron microscope,,,,,,,SEM included in analytical characterization,Instrument model and exact subset not promoted from accessible text.
+MP0097-01,ST0097,SA0097-ALL,Sampling / drying,Quadrat sampling + oven drying,1 m² quadrat; sediment,,60,,,,,Triplicate samples per site in four seasons; 5 cm depth; oven dried at 60°C; 100 g processed.,Full paper pp. 2–3.
+MP0097-02,ST0097,SA0097-ALL,Digestion / density separation,Oxidation + sequential density separation,30% H2O2; NaCl then ZnCl2,,,,"Whatman Grade 1, 11 µm",,,100 g sediment processed; 30% H2O2; NaCl followed by ZnCl2; filtered on Whatman Grade 1 (11 µm).,Full paper pp. 2–3.
+MP0097-03,ST0097,SA0097-ALL,Identification,Stereomicroscopy + ATR-FTIR,Stereomicroscope; ATR-FTIR,,,,,Agilent Cary 630 ATR-FTIR,,Morphological characterization by stereomicroscopy; polymer identification by ATR-FTIR (Cary 630).,SEM retained in study as surface-weathering characterization; full paper verified.
+MP0088-W1,ST0088,SA0088-W,Sampling,Water filtration,15 µm plankton net,,,,,,,50 L water per location in triplicate filtered through 15 µm plankton net,
+MP0098-S1,ST0098,SA0098-S,Drying,Oven drying,,,50,2 days,,,,Sediment dried at 50 °C to stable weight after 2 days,
+MP0098-S2,ST0098,SA0098-S,Density separation,NaBr density separation,NaBr,1.5 g/mL,,12 h settling; extraction repeated 3 times,,,,10 g homogenized sediment + 250 mL 1.5 g/mL NaBr; stir 15–20 min; settle 12 h; repeat three times,
+MP0098-I1,ST0098,SA0098-S,Visual identification,Stereomicroscopy,,,,,,Nikon SMZ18,,"80× stereomicroscope used for type, size, structure and colour",
+MP0098-I2,ST0098,SA0098-S,Polymer identification,micro-FTIR,,,,,,Bruker LUMOS / LUMOS II,,Polymer types identified by micro-FTIR in transmittance mode,
+MP0094-I1,ST0094,SA0094-S,Visual identification,Stereomicroscopy,Stereomicroscope,,,,,,,Beach sediments processed and MPs quantified using stereomicroscope,
+MP0094-I2,ST0094,SA0094-S,Polymer identification,Raman spectroscopy,Raman spectroscopy,,,,,,,Polymer composition identified through Raman spectroscopy,
+MP0095-I1,ST0095,SA0095-FE,Chemical identification,FTIR,FTIR,,,,,,,Acknowledgements confirm CLIF support for SEM and FTIR analyses; polymer types reported by species,Detailed FTIR acceptance threshold not exposed.
+MP0095-I2,ST0095,SA0095-FE,Surface/element characterization,SEM,SEM,,,,,,,"SEM used in study; heavy metals Hg, Pb, Cd, Cr reported associated/co-occurring with MPs",
+MP0061-01,ST0061,SA0061-ALL,Screening/identification,Nile Red staining,Nile Red,,,,,,,Nile-red staining listed in primary record keywords,Detailed staining protocol unavailable in accessible abstract.
+MP0061-02,ST0061,SA0061-ALL,Polymer identification,Raman spectroscopy,Raman spectroscopy,,,,,,,Twelve polymer types identified by Raman spectral analysis,
+MP0062-01,ST0062,SA0062-01,Sampling,Plankton-net tow,50 µm plankton net,,,,,,,Net dragged over 600 m at surface to ~15 cm depth,
+MP0062-02,ST0062,SA0062-01,Digestion,Oxidative digestion,30% H2O2,,,,,,,Residues treated with 30% hydrogen peroxide for seven days,
+MP0062-03,ST0062,SA0062-01,Density separation,Density separation,Sodium iodide,,,,,,,NaI reported at density 1600 mg/L in source text,Unit retained exactly as reported; no silent correction to g/L or density units.
+MP0062-04,ST0062,SA0062-01,Polymer identification,FTIR,Shimadzu 8400S FTIR,,,,,,,4000–500 cm−1; 4 cm−1 resolution; 15 scans,
+MP0062-05,ST0062,SA0062-01,Polymer identification,Raman spectroscopy,STR500 confocal Raman spectrometer,,,,,,,532 nm; 100–5000 cm−1; four scans,
+MP0062-06,ST0062,SA0062-01,Polymer identification,GC-MS,NUCON 5700 GC with mass spectrometer,,,,,,,GC-MS comparison with virgin polymer degradation fragments,
+MP0078-01,ST0078,SA0078-L1,Extraction,Density separation,Density separation,,,,,,,MPs extracted using density separation,Density medium not promoted from currently exposed text.
+MP0078-02,ST0078,SA0078-L1,Quantification,Gravimetric,Pre-weighed vial / dried recovered particles,,,,,,,MP mass calculated from vial-with-particles minus tared vial; expressed mg/L,
+MP0078-03,ST0078,SA0078-L1,Morphology,Bright-field microscopy / SEM,40× light microscope; SEM,,,,,,,Microscopy for morphology/color; SEM for surface cracking/fracturing/biofilm,
+MP0078-04,ST0078,SA0078-L1,Polymer identification,FTIR-ATR,IRAffinity-1 / Thermo Nicolet iS50 with ATR as reported,,,,,,,FTIR used to verify polymer type,Instrument wording retained from publisher text.
+MP0079-01,ST0079,SA0079-ALL,Screening,Nile Red fluorescence microscopy,Nile Red fluorescence microscopy,,,,,,,High-throughput fluorescence screening,
+MP0079-02,ST0079,SA0079-ALL,Surface characterization,FESEM–EDX,Field-emission SEM with EDX,,,,,,,Morphological and surface elemental characterization,
+MP0079-03,ST0079,SA0079-ALL,Polymer confirmation,Micro-Raman spectroscopy,Micro-Raman spectroscopy,,,,,,,"Polymer confirmation of PET, PP, PS and PE",
+MP0066-01,ST0066,SA0066-GW,Identification,Fluorescence microscopy,Fluorescence microscope,,,,,,,MPs identified using a fluorescence microscope,
+MP0066-02,ST0066,SA0066-GW,Surface/co-contaminant characterization,SEM–EDX,SEM–EDX,,,,,,,SEM–EDX showed heavy metals adhering to MP surfaces,
+MP0069-01,ST0069,SA0069-S1,Visual identification,Binocular microscopy,Olympus SZX7,,,,,Olympus SZX7,,8×–56×; metal-probe response used in visual sorting,
+MP0069-02,ST0069,SA0069-S1,Polymer identification,ATR-FTIR,Thermo Nicolet 380 FT-IR with ATR,,,,,Thermo Nicolet 380,>80% similarity,16 scans; 4 cm−1 resolution; 4000–650 cm−1,
+MP0069-03,ST0069,SA0069-S1,Surface characterization,FE-SEM,Hitachi SU70,,,,,Hitachi SU70,,30 kV HV mode; selected MPs carbon coated; 2 M HCl 24 h pretreatment for surface visualization,
+MP0070-01,ST0070,SA0070-WAT,Surface characterization,SEM,Scanning Electron Microscopy,,,,,,,SEM showed varying degrees of surface degradation,
+MP0071-01,ST0071,SA0071-WAT,Chemical characterization,Not exposed in accessible abstract,Not Reported,,,,,,,"Chemical characterization identified cellulose/derivatives, PE, PA and polyvinyl stearate",
+MP0063-01,ST0063,SA0063-W,Polymer identification,FTIR,Fourier transform infrared spectroscopy,,,,,,,FTIR confirmed MPs in sediment and water samples,
+MP0064-01,ST0064,SA0064-S,Polymer identification,ATR-FTIR + micro-Raman,ATR-FTIR and µ-Raman spectroscopy,,,,,,,"PET predominant; PP, PS, EVA, PVC and polyester also identified",
+MP0065-01,ST0065,SA0065-W,Polymer identification,Micro-Raman,µ-Raman analysis,,,,,,,PE and PP abundantly occurring across matrices,
+MP0067-01,ST0067,SA0067-S,Spatial-driver analysis,LULC / Random Forest / Google Earth Engine,Random Forest classifier on Google Earth Engine,,,,,,,LULC classification overall accuracy 98.3%; kappa 0.97,
+MP0074-01,ST0074,SA0074-F,Polymer identification,Raman spectroscopy,Raman spectroscopy,,,,,,,Raman identified poly(m-phenylene terephthalamide) as most abundant polymer (~35%),
+MP0075-01,ST0075,SA0075-GW,Groundwater MP analysis,Detailed method in publisher full text/supporting information,Not transcribed in current controlled pass,,,,,,,"60 samples assessed for MP concentration, types and distribution before/after Michaung",No instrument or processing parameter inferred without direct extraction.
+MP0076-01,ST0076,SA0076-W,Particle detection,Fluorescence microscopy,Fluorescence microscopy,,,,,,,Used across environmental matrices,
+MP0076-02,ST0076,SA0076-W,Polymer identification,Raman spectroscopy,Raman spectroscopy,,,,,,,"Polymer composition characterized across water, sediment and fish",
+MP0021-01,ST0021,SA0021-W,Polymer identification,Spectroscopic identification,Method not fully exposed in current primary record,,,,,,,"Polyacrylamide, polyacetylene and ethylene vinyl alcohol reported as major polymers",
+MP0022-01,ST0022,SA0022-W,Sampling,Zooplankton-net tow,240 µm mesh zooplankton net,,,,,,,Top ~10 cm; 20 min haul; five GPS-marked sites; three months,
+MP0022-02,ST0022,SA0022-W,Polymer identification,Micro-Raman,HORIBA Scientific LabSpec 6,,,,,,,Random 10% subset of total fibre particles analysed,
+MP0025-01,ST0025,SA0025-S,Polymer identification,ATR-FTIR,ATR-FTIR spectroscopy,,,,,,,"HDPE, LDPE, PE, PP, PS and PA identified",
+MP0025-02,ST0025,SA0025-S,Surface characterization,SEM-EDS,SEM + EDS,,,,,,,"Cr, As, Pb and Cd reported on MP surfaces",
+MP0057-01,ST0057,SA0057-S,Extraction,Density separation + vacuum filtration,Density separation and vacuum pump filtration,,,,,,,MPs extracted from 22 sediment samples,
+MP0057-02,ST0057,SA0057-S,Identification,Stereo-zoom microscopy + Raman,Stereo-zoom microscope and Raman spectroscopy,,,,,,,Morphology and polymer identification,
+MP0058-01,ST0058,SA0058-WL,Chemical characterization,SEM-EDX,SEM-EDX,,,,,,,Six polymers characterized; HDPE most abundant,
+MP0027-01,ST0027,SA0027-PRM,Extraction,Modified NOAA protocol,5 mm + 0.3 mm sieves; sodium hexametaphosphate; ZnCl2 933.3 g/L,,,,,,,~400 g wet sediment oven-dried; primary and secondary ZnCl2 density separation,
+MP0027-02,ST0027,SA0027-PRM,Digestion,Wet peroxide oxidation,0.05 M Fe(II) + 30% H2O2,,,,,,,WPO until organic matter digested,
+MP0027-03,ST0027,SA0027-PRM,Identification,Stereo microscopy + ATR-FTIR,Nikon stereo zoom 40×; Shimadzu IRSpirit/QATR-S,,,,,,,PRM 24 and POM 8 frequently occurring/suspected MPs analysed by ATR-FTIR; Open Specy Pearson correlation >0.8,
+MP0029-01,ST0029,SA0029-W,Processing/identification,Sieve filtration + alkali digestion + microscopy + FTIR,FTIR,,,,,,,"Primary abstract reports volume-reduce sieve filtration, alkali digestion, microscopy and FTIR",
+MP0030-01,ST0030,SA0030-W,Identification,Stereomicroscopy + ATR-FTIR,ATR-FTIR spectroscopy,,,,,,,MPs examined by stereomicroscope and polymer composition identified using ATR-FTIR,
+MP0060-01,ST0060,SA0060-S,Extraction/characterization,Density separation + microscopy + polymer characterization,Not fully exposed in accessible abstract,,,,,,,"Density separation followed by microscopic shape, size, color and polymer characterization",
+MP0023-01,ST0023,SA0023-S,Polymer characterization,Spectroscopic/chemical characterization reported,Primary accessible record does not expose full protocol,,,,,,,Polyethylene types and additives dominant,
+MP0044-01,ST0044,SA0044-S,Characterization,Polymer analysis + EDX,Method details pending full text,,,,,,,PE and PP abundant; EDX detected multiple metals on particles,
+MP0047-01,ST0047,SA0047-SW,Particle characterization,Polymer analysis + SEM-EDS,SEM; EDS; polymer identification reported,,,,,,,PE and PP dominant; SEM weathering and EDS adsorbed metals,
+MP0049-01,ST0049,SA0049-INF,Processing/identification,Digestion + density separation + microscopy + FTIR,FTIR,,,,,,,Wastewater/sludge samples processed by digestion and density separation followed by microscopy and FTIR,
+MP0053-01,ST0053,SA0053-W,Identification,Stereomicroscopy + Raman + micro-FTIR,Raman spectroscopy; micro-FTIR; SEM for surface characteristics,,,,,,,Polyolefins dominant in water and sediment,
+MP0054-01,ST0054,SA0054-S,Polymer characterization,Polymer identification reported,Exact instrument not promoted from accessible abstract,,,,,,,"PE, PP, PA, PS, EVA and PVC proportions reported",
+MP0055-01,ST0055,SA0055-W,Characterization,Morphology/polymer/weathering analysis,Exact instrument details pending full text,,,,,,,PE dominant; seasonal polymer composition and weathering indices assessed,
+MP0033-01,ST0033,SA0033-W,Identification,Polymer characterization reported,Exact accessible abstract method detail not promoted,,,,,,,"PS, PVC, nylon, PE, PET and PP common in water and sediment",
+MP0034-01,ST0034,SA0034-KR,Identification,µFTIR + µRaman spectroscopy,µFTIR; µRaman,,,,,,,"PA, PP, PE, EVOH copolymer resin and PVC identified as primary polymer types",
+MP0036-01,ST0036,SA0036-W,Identification,FTIR/Raman/SEM-EDAX characterization,FTIR-ATR; Raman; SEM-EDAX reported in article,,,,,,,Particle-level polymer and surface/elemental characterization,
+MP0039-01,ST0039,SA0039-W,Extraction,Organic digestion + density separation,30% H2O2; NaCl; fish gut 10% KOH,,,,,,,Water/sediment organic matter digestion with H2O2 and NaCl density separation; fish gut KOH digestion,
+MP0039-02,ST0039,SA0039-W,Identification,Visual + micro-Raman spectroscopy,micro-Raman,,,,,,,Visual identification followed by chemical characterization using micro-Raman,
+MP0032-01,ST0032,SA0032-W,Sampling/design,Coast-wide multi-contaminant survey,,,,,,,,"17 stations: north 6, central 7, south 4; MPs collected/characterized in sediment and coastal water",
+MP0042-01,ST0042,SA0042-S,Identification,Particle characterization + Raman spectroscopy,Raman spectroscopy,,,,,,,13 polymer types identified,
+MP0043-01,ST0043,SA0043-W,Identification,Optical microscopy + SEM-EDS + FTIR,Optical microscope; SEM-EDS; FTIR,,,,,,,Shapes/colors quantified visually; chemical structure characterized by SEM-EDS and FTIR,
+MP0048-01,ST0048,SA0048-S,Study design,Sediment + biota coastal survey,,,,,,,,Sediments from 12 beaches; marine biota from six beaches; microbial degradation component also studied,
+MP0028-01,ST0028,SA0028-S,Identification,FTIR-based polymer characterization,FTIR,,,,,,,Paper explicitly frames microplastic features/polymer types using FTIR.,
+MP0041-01,ST0041,SA0041-HTL,Characterization,FTIR-ATR + SEM-EDAX,FTIR-ATR; SEM-EDAX,,,,,,,Polymer composition and weathered surfaces/adhering chemicals characterized.,
+MP0045-01,ST0045,SA0045-GJ,Polymer identification,Micro-FTIR,Micro-FTIR,,,,,,,"PE, polyester and PVC reported as common salt-associated polymers.",
+MP0050-01,ST0050,SA0050-W,Extraction/identification,Digestion + density separation + microscopy + FTIR + SEM-EDX,Microscope; FTIR; SEM-EDX,,,,,,,"MPs extracted by digestion/density separation and characterized using microscopy, FTIR and SEM-EDX.",
+MP0056-01,ST0056,SA0056-INF,Identification,Morphological/polymer characterization,"Primary abstract reports PP, PE, PS identification; detailed instrument fields require full methods",,,,,,,"Black fragmented MPs, 50–250 µm, with PP, PE and PS prevalent.",
+MP0026-01,ST0026,SA0026-S,Isolation,Sediment-MP Isolation / density separation,SMI unit; hydrogen peroxide solution,,,,,,,Density separation conducted using SMI unit with hydrogen peroxide solution.,
+MP0026-02,ST0026,SA0026-S,Identification,FTIR + SEM-EDS,FT-IR; SEM; EDS,,,,,,,"FTIR for polymers; SEM for morphology; EDS reported Si, Mg, Cu and Al associated with MPs.",
+MP0031-01,ST0031,SA0031-W,Characterization,Polymer/hazard characterization reported,Exact analytical details pending full text,,,,,,,PE and PS reported as dominant MP types in water and sand.,
+MP0038-01,ST0038,SA0038-S,Sampling/subsampling,Beach sediment collection and subsampling,1 kg sediment/site; five replicates; three 20 g subsamples,,,,,,,Publisher abstract explicitly describes sampling/subsampling design.,
+MP0059-01,ST0059,SA0059-S,Identification,Optical microscopy + FTIR + thermogravimetric analysis,Optical microscopy; FT-IR; TGA,,,,,,,Primary abstract explicitly reports all three methods.,
+MP0026-03,ST0026,SA0026-S,Drying,Oven drying,Sediment dried to constant weight,,65,,,,,1 kg fresh sediment dried at 65°C to constant weight before processing; abundance expressed per kg dry weight.,Full paper Methods §2.2.
