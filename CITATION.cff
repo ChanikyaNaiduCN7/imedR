@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and also cite the IMED/IMEA data release."
+title: "imedR: Guarded Evidence Synthesis for the Indian Microplastics Evidence Database"
+type: software
+version: "0.3.1"
+date-released: "2026-10-08"
+authors:
+  - family-names: "Naidu"
+    given-names: "Chanikya"
+    email: "thefisherieschanikyaneeti@gmail.com"
+abstract: "A guardrail-first R interface to the Indian Microplastics Evidence Database (IMED). It provides validation, comparability-aware filtering, statistics, meta-analysis helpers, figures, mapping and provenance retrieval, and blocks unsafe pooling across incompatible matrices, units, mass bases and comparability classes."
+license: MIT
+repository-code: "https://github.com/ChanikyaNaiduCN7/imedR"
+url: "https://github.com/ChanikyaNaiduCN7/imedR"
+keywords:
+  - microplastics
+  - India
+  - evidence synthesis
+  - R package
+  - meta-analysis
+references:
+  - type: dataset
+    title: "Indian Microplastics Evidence Database (IMED) and Indian Microplastics Evidence Atlas (IMEA), Version 1.0"
+    authors:
+      - family-names: "Bejawada"
+        given-names: "C. N."
+    doi: "10.5281/zenodo.23180568"
+    year: 2026
