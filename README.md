@@ -61,10 +61,14 @@ identifier-only normalization; no scientific value is altered.
 ## Installation
 
 ```r
-install.packages("path/to/imedR", repos = NULL, type = "source")
+# install.packages("remotes")
+remotes::install_github("ChanikyaNaiduCN7/imedR")
 library(imedR)
 imed_version()
 ```
+
+Optional packages for mapping, meta-analysis and tables (`sf`, `metafor`, `gt`)
+are installed only if you use those functions.
 
 ## Citation
 
