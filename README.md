@@ -1,5 +1,7 @@
 # imedR 0.3.1
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23236915.svg)](https://doi.org/10.5281/zenodo.23236915)
+
 `imedR` is a manuscript-grade, guardrail-first R package for the Indian
 Microplastics Evidence Database (IMED).
 
@@ -74,8 +76,9 @@ are installed only if you use those functions.
 
 Naidu C (2026). imedR: Guarded Evidence Synthesis for the Indian
 Microplastics Evidence Database. R package version 0.3.1.
+https://doi.org/10.5281/zenodo.23236915
 
-Please also cite IMED/IMEA v1.0 (DOI 10.5281/zenodo.23180568) and the
+Please also cite IMED/IMEA v1.0 (https://doi.org/10.5281/zenodo.23180568) and the
 original primary publications for any study-specific claim.
 
 ## License

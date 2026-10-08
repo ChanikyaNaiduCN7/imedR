@@ -12,6 +12,7 @@ abstract: "A guardrail-first R interface to the Indian Microplastics Evidence Da
 license: MIT
 repository-code: "https://github.com/ChanikyaNaiduCN7/imedR"
 url: "https://github.com/ChanikyaNaiduCN7/imedR"
+doi: "10.5281/zenodo.23236915"
 keywords:
   - microplastics
   - India
