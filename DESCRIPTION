@@ -17,6 +17,8 @@ Description: A research-grade, guardrail-first interface to the Indian
     incompatible matrices, denominators, mass bases and comparability classes
     is blocked by default.
 License: MIT + file LICENSE
+URL: https://github.com/ChanikyaNaiduCN7/imedR
+BugReports: https://github.com/ChanikyaNaiduCN7/imedR/issues
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 4.2.0)

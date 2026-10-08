@@ -2,3 +2,7 @@
 ^imedR\.Rproj$
 ^\.Rproj\.user$
 ^DEVELOPMENT_ROADMAP\.csv$
+^\.git$
+^\.gitignore$
+^\.gitattributes$
+^\.github$
