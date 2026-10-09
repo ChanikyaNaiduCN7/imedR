@@ -7,3 +7,4 @@
 ^\.gitattributes$
 ^\.github$
 ^CITATION\.cff$
+^cran-comments\.md$
